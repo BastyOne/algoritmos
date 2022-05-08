@@ -1,0 +1,7 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+4278,Abate Molina Ltda,http://www.subtrans.gob.cl/region-del-maule.html,America/Santiago,es,,
+5521,Sotratal s.a,http://www.subtrans.gob.cl/region-del-maule.html,America/Santiago,es,,
+5522,Taxutal s.a,http://www.subtrans.gob.cl/region-del-maule.html,America/Santiago,es,,
+15142,Interbus,http://www.subtrans.gob.cl/region-del-maule.html,America/Santiago,es,,
+15179,Talmocur,http://www.subtrans.gob.cl/region-del-maule.html,America/Santiago,es,,
+18251,Buscarril,http://www.trencentral.cl/link.cgi/servicios/buscarril/,America/Santiago,es,,
