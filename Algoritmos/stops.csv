@@ -1,4 +1,4 @@
-stop_id;stop_name;stop_lat;stop_lon
+stop_id,stop_name,stop_lat,stop_lon
 1508057;Circunvalación / 16 1/2 Ote;-3541727018;-7163721621
 1508061;Circunvalación / 15 1/2 Ote;-3541614226;-7163836957
 2644929;Colin /O´Higgnis;-3544951412;-7169028371
