@@ -1,0 +1,919 @@
+stop_id,Target_ID,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1508057,Talca,Circunvalación / 16 1/2 Ote,Talca,-35.41727018,-71.63721621,Talca,,0,Talca,,0
+1508061,Talca,Circunvalación / 15 1/2 Ote,Talca,-35.41614226,-71.63836957,Talca,,0,Talca,,0
+2644929,Talca,Colin /O´Higgnis,Talca,-35.44951412,-71.69028371,Talca,,0,Talca,,0
+2644930,Talca,Colin / Colin,Talca,-35.45214893,-71.69008576,Talca,,0,Talca,,0
+2644931,Talca,Colin / Río Claro,Talca,-35.45205966,-71.69039984,Talca,,0,Talca,,0
+2644932,Talca,Colin / O´Higgnis,Talca,-35.44919298,-71.6905246,Talca,,0,Talca,,0
+2644933,Talca,Colin / Veintiocho Sur,Talca,-35.44753496,-71.68959078,Talca,,0,Talca,,0
+2644934,Talca,Terminal Taxual s.a,Talca,-35.45924115,-71.69419169,Talca,,0,Talca,,0
+2644935,Talca,Dos Sur / Tres Poniente,Talca,-35.42797338,-71.66908454,Talca,,0,Talca,,0
+2644936,Talca,Dos Sur,Talca,-35.42819941,-71.66758536,Talca,,0,Talca,,0
+2644937,Talca,Dos Sur / 1 Oriente,Talca,-35.42835602,-71.66565564,Talca,,0,Talca,,0
+2644938,Talca,Dos Sur / Dos Ote,Talca,-35.42830782,-71.66480602,Talca,,0,Talca,,0
+2644939,Talca,Dos Sur / Dos Ote,Talca,-35.42845103,-71.6644973,Talca,,0,Talca,,0
+2644941,Talca,1 Oriente / 1 Sur,Talca,-35.4267706,-71.66540567,Talca,,0,Talca,,0
+2644943,Talca,Dos Sur / Tres Oriente,Talca,-35.4284927,-71.66235222,Talca,,0,Talca,,0
+2644944,Talca,Dos Sur / Cuatro Oriente,Talca,-35.42865891,-71.66173998,Talca,,0,Talca,,0
+2645009,Talca,Dos Sur / 5 Oriente,Talca,-35.4287231,-71.65957882,Talca,,0,Talca,,0
+2645028,Talca,Dos Sur / 6 Oriente,Talca,-35.42893507,-71.65877887,Talca,,0,Talca,,0
+2645029,Talca,Dos Sur / Ocho Oriente,Talca,-35.42931845,-71.65631824,Talca,,0,Talca,,0
+2645030,Talca,Dos Sur / Siete Oriente,Talca,-35.42876427,-71.6567033,Talca,,0,Talca,,0
+2645107,Talca,Avenida Isidoro del Solar / Cuatro norte,Talca,-35.42157754,-71.67025246,Talca,,0,Talca,,0
+2645108,Talca,Dos Sur / Nueve Oriente,Talca,-35.42917214,-71.65405117,Talca,,0,Talca,,0
+2645109,Talca,Dos Sur / 10 Oriente,Talca,-35.42943881,-71.65251745,Talca,,0,Talca,,0
+2645110,Talca,Once Oriente / Estación de Tren ,Talca,,Talca,-35.42953833,-71.65031309,Talca,,0,Talca,,0
+2645111,Talca,Estación ,Talca,,Talca,-35.42960194,-71.64938271,Talca,,0,Talca,,0
+2645112,Talca,Once Oriente / Uno Sur,Talca,-35.42887168,-71.65029335,Talca,,0,Talca,,0
+2645113,Talca,Once Oriente / Dos Sur,Talca,-35.42910294,-71.65044574,Talca,,0,Talca,,0
+2645114,Talca,Once Oriente / Uno Sur,Talca,-35.42774073,-71.65031186,Talca,,0,Talca,,0
+2645117,Talca,Dos Norte / Doce Ote,Talca,-35.42631181,-71.64820831,Talca,,0,Talca,,0
+2645118,Talca,Uno Sur / Catorce Ote,Talca,-35.42880414,-71.64474704,Talca,,0,Talca,,0
+2645119,Talca,Catorce Oriente / Uno Sur,Talca,-35.42852334,-71.64509863,Talca,,0,Talca,,0
+2645120,Talca,Avenida San Miguel / INACAP,Talca,-35.43142795,-71.63853987,Talca,,0,Talca,,0
+2645176,Talca,Diez Oriente / Seis Norte,Talca,-35.41998019,-71.65089598,Talca,,0,Talca,,0
+2711738,Talca,Cuatro Norte / 5 Ote,Talca,-35.42277078,-71.65848197,Talca,,0,Talca,,0
+2711739,Talca,Cuatro Norte / 7 Oriente,Talca,-35.42225626,-71.65624443,Talca,,0,Talca,,0
+2711740,Talca,Cuatro Norte / Tres Oriente,Talca,-35.4218192,-71.66234346,Talca,,0,Talca,,0
+2711741,Talca,Cuatro Norte / Dos Poniente,Talca,-35.42141801,-71.66794927,Talca,,0,Talca,,0
+2711742,Talca,Cuatro Norte / Diecinueve 1/2 Sur C,Talca,-35.4212538,-71.67001297,Talca,,0,Talca,,0
+2711744,Talca,Cuatro Norte / Cárcel de ,Talca,,Talca,-35.42213333,-71.66791052,Talca,,0,Talca,,0
+2711745,Talca,Calle 1 Poniente / Cuatro Norte,Talca,-35.42250224,-71.66630119,Talca,,0,Talca,,0
+2711746,Talca,Cuatro Norte / Uno Ote,Talca,-35.42229704,-71.66524514,Talca,,0,Talca,,0
+2711747,Talca,Cuatro Norte / Cuatro Ote,Talca,-35.42258557,-71.66119849,Talca,,0,Talca,,0
+2727697,Talca,Diez Oriente / Siete Norte,Talca,-35.41916123,-71.65057832,Talca,,0,Talca,,0
+2727702,Talca,Diez Nte / Los Robles,Talca,-35.41490082,-71.65055228,Talca,,0,Talca,,0
+2727703,Talca,Dieciocho Oriente / Cuatro 1/2 Sur,Talca,-35.43336988,-71.64151516,Talca,,0,Talca,,0
+2727773,Talca,6 Oriente / Seis Sur,Talca,-35.43390717,-71.65897268,Talca,,0,Talca,,0
+2727774,Talca,Seis Sur / Dos Ote,Talca,-35.432936,-71.66488555,Talca,,0,Talca,,0
+2727942,Talca,San Miguel / Treinte Ote,Talca,-35.43469173,-71.62904444,Talca,,0,Talca,,0
+2727944,Talca,San Miguel / Treinta y cuatro Ote,Talca,-35.43668655,-71.62272147,Talca,,0,Talca,,0
+2727945,Talca,San Miguel / Treinta y cuatro Ote,Talca,-35.4364481,-71.62258857,Talca,,0,Talca,,0
+2727955,Talca,San Miguel / Camino a San Miguel,Talca,-35.4386117,-71.61573888,Talca,,0,Talca,,0
+2727960,Talca,Once Oriente / Tres sur,Talca,-35.43028341,-71.65060378,Talca,,0,Talca,,0
+2727963,Talca,Once Oriente / Ocho Sur,Talca,-35.43660869,-71.65128613,Talca,,0,Talca,,0
+2727991,Talca,Once Oriente / Ocho 1/2 Sur,Talca,-35.43704676,-71.65122121,Talca,,0,Talca,,0
+2727993,Talca,Once Oriente / Nueve Sur,Talca,-35.43765355,-71.65126354,Talca,,0,Talca,,0
+2728052,Talca,6 Oriente / Doce Sur,Talca,-35.43924619,-71.66105427,Talca,,0,Talca,,0
+2728055,Talca,6 Oriente / Ocho 1/2 Sur,Talca,-35.43654093,-71.65935601,Talca,,0,Talca,,0
+2728062,Talca,Carlos Schorr / Balmaceda,Talca,-35.42937176,-71.67443616,Talca,,0,Talca,,0
+2746861,Talca,Avenida Lircay / Diecinueve Norte,Talca,-35.40624887,-71.64464187,Talca,,0,Talca,,0
+2746862,Talca,Av. Lircay / Veintiuno y Medio Norte,Talca,-35.40402042,-71.63985774,Talca,,0,Talca,,0
+2746863,Talca,Av. Lircay / Universidad de ,Talca,,Talca,-35.40413489,-71.63955477,Talca,,0,Talca,,0
+2746864,Talca,Ruta 118 / Estadio Universidad de ,Talca,,Talca,-35.40171501,-71.63503573,Talca,,0,Talca,,0
+2746865,Talca,Ruta 118 / Estadio Universidad de ,Talca,,Talca,-35.40185925,-71.63490989,Talca,,0,Talca,,0
+2746866,Talca,Panamericana Sur / Acceso a ,Talca,,Talca,-35.39930696,-71.62048758,Talca,,0,Talca,,0
+2746867,Talca,Terminal de Buses Linea 5,Talca,-35.39861158,-71.61988914,Talca,,0,Talca,,0
+2746963,Talca,Veinte Poniente / Psje Veinte Pte,Talca,-35.44238969,-71.6977252,Talca,,0,Talca,,0
+2746964,Talca,Treinta Sur / Psje Veintiuno Pte,Talca,-35.44506315,-71.70126468,Talca,,0,Talca,,0
+2746965,Talca,Calle 21 Poniente / 25 Sur,Talca,-35.44096696,-71.69719294,Talca,,0,Talca,,0
+2746968,Talca,Cinco Poniente / Veinticuatro 1/2 Sur,Talca,-35.44550368,-71.68022935,Talca,,0,Talca,,0
+2747000,Talca,Calle 25 Sur / 1 Pte,Talca,-35.44951849,-71.67300225,Talca,,0,Talca,,0
+2747005,Talca,Pasaje Veinticinco Sur B / 1 Ote,Talca,-35.44585415,-71.66897893,Talca,,0,Talca,,0
+2747009,Talca,Nueve Oriente / Dieciséis Sur,Talca,-35.44711293,-71.6593444,Talca,,0,Talca,,0
+2747010,Talca,Dieciséis Sur / Diez Ote,Talca,-35.44817827,-71.6565259,Talca,,0,Talca,,0
+2747013,Talca,Diez Ote / Cabo Orlando Espinoza,Talca,-35.44362751,-71.65336848,Talca,,0,Talca,,0
+2747014,Talca,Diez Oriente / Psje 13,Talca,-35.44215261,-71.65287805,Talca,,0,Talca,,0
+2747015,Talca,Catorce Oriente / Vicente Huidobro,Talca,-35.44281026,-71.64770096,Talca,,0,Talca,,0
+2747018,Talca,Catorce Oriente / Trece Medio Sur,Talca,-35.446287,-71.64869428,Talca,,0,Talca,,0
+2747019,Talca,Catorce Sur / Catorce Ote,Talca,-35.44760004,-71.64950072,Talca,,0,Talca,,0
+2747024,Talca,Catorce Oriente / Diez Sur,Talca,-35.43797579,-71.64619256,Talca,,0,Talca,,0
+2747025,Talca,Dieciocho Ote / Calle 1 Sur,Talca,-35.42911338,-71.64039999,Talca,,0,Talca,,0
+2747027,Talca,Catorce Oriente / Calle 1 Nte,Talca,-35.42690263,-71.64495302,Talca,,0,Talca,,0
+2747029,Talca,Calle 1 Norte / Catorce Ote,Talca,-35.42776569,-71.64556369,Talca,,0,Talca,,0
+2747030,Talca,Catorce Oriente / Uno Sur,Talca,-35.4292716,-71.645207,Talca,,0,Talca,,0
+2747032,Talca,Catorce Oriente / Dos Sur,Talca,-35.43014868,-71.6452947,Talca,,0,Talca,,0
+2747038,Talca,Catorce Oriente / Tres Sur,Talca,-35.43120557,-71.64540077,Talca,,0,Talca,,0
+2747043,Talca,Once Oriente / Dos Nte,Talca,-35.42648241,-71.64998712,Talca,,0,Talca,,0
+2747044,Talca,Dos Nte / Once Ote,Talca,-35.42598148,-71.64969237,Talca,,0,Talca,,0
+2747046,Talca,Once Oriente / Tres Nte,Talca,-35.42477211,-71.6499469,Talca,,0,Talca,,0
+2747047,Talca,Once Oriente / PF,Talca,-35.42512056,-71.64983527,Talca,,0,Talca,,0
+2747056,Talca,"Cuatro Norte, 1513-1579",Talca,-35.42253141,-71.65232897,Talca,,0,Talca,,0
+2747072,Talca,Calle 1 Poniente / Dos Nte,Talca,-35.42471261,-71.66651126,Talca,,0,Talca,,0
+2747073,Talca,Avenida Isidoro del Solar / Dos Nte,Talca,-35.42466838,-71.66774093,Talca,,0,Talca,,0
+2747075,Talca,Avenida Isidoro del Solar / Calle 1 Nte,Talca,-35.4257598,-71.66693189,Talca,,0,Talca,,0
+2747079,Talca,Cuatro Norte / Ocho Ote,Talca,-35.42298048,-71.65560323,Talca,,0,Talca,,0
+2747080,Talca,Cuatro Norte / 1 Ote,Talca,-35.42164939,-71.6646435,Talca,,0,Talca,,0
+2747081,Talca,Cuatro Norte / Isidora del Solar,Talca,-35.42190261,-71.67068113,Talca,,0,Talca,,0
+2747085,Talca,Once Oriente / Cinco Nte,Talca,-35.42162013,-71.64954174,Talca,,0,Talca,,0
+2747086,Talca,Once Oriente / Siete Nte,Talca,-35.41930741,-71.64923237,Talca,,0,Talca,,0
+2747087,Talca,Diez Norte / Lircay,Talca,-35.41391207,-71.65301514,Talca,,0,Talca,,0
+2747088,Talca,Trece 1/2 Oriente / Trece 1/2 Ote,Talca,-35.41549223,-71.64438152,Talca,,0,Talca,,0
+2747096,Talca,Trece 1/2 Oriente / Once 1/2 Nte,Talca,-35.41431171,-71.64272528,Talca,,0,Talca,,0
+2747099,Talca,Doce Norte / 17 Norte,Talca,-35.41162603,-71.6442305,Talca,,0,Talca,,0
+2747116,Talca,Avenida Isidoro del Solar / Dos Norte,Talca,-35.42428167,-71.66833693,Talca,,0,Talca,,0
+2840634,Talca,Ocho Sur / 32 Ote,Talca,-35.44277722,-71.62875,Talca,,0,Talca,,0
+2957053,Talca,Dieciocho Oriente / Cinco Sur,Talca,-35.43438821,-71.64216098,Talca,,0,Talca,,0
+2957680,Talca,Ocho Sur / Dieciocho Ote,Talca,-35.4369185,-71.64443759,Talca,,0,Talca,,0
+2957681,Talca,Cuatro Sur / Quince Ote,Talca,-35.43285422,-71.64420022,Talca,,0,Talca,,0
+2957682,Talca,Cuatro Sur / Catorce Ote,Talca,-35.43278076,-71.64542161,Talca,,0,Talca,,0
+2957685,Talca,Terminal,Talca,-35.44802854,-71.65136859,Talca,,0,Talca,,0
+2957741,Talca,Dos Norte /Cuatro Pte,Talca,-35.42425031,-71.6704261,Talca,,0,Talca,,0
+2957759,Talca,Ocho Oriente / Siete Nte,Talca,-35.41999677,-71.65505766,Talca,,0,Talca,,0
+2957769,Talca,Lircay / Pasaje desolación,Talca,-35.41514616,-71.65508696,Talca,,0,Talca,,0
+2957791,Talca,Diez Norte / Los Robles,Talca,-35.41498571,-71.65058153,Talca,,0,Talca,,0
+2957823,Talca,Lircay / Doce Norte,Talca,-35.41302761,-71.65272678,Talca,,0,Talca,,0
+2957824,Talca,Doce Norte / Siete Ote,Talca,-35.41229085,-71.65565254,Talca,,0,Talca,,0
+2957825,Talca,Doce Norte / 6 Ote,Talca,-35.41188048,-71.65642072,Talca,,0,Talca,,0
+2957826,Talca,V Cinco 1/2 Ote,Talca,-35.41197029,-71.65684987,Talca,,0,Talca,,0
+2957827,Talca,Cinco Ote / Ocho Norte,Talca,-35.41689622,-71.65900486,Talca,,0,Talca,,0
+2957828,Talca,Cinco Oriente / Cuatro Nte,Talca,-35.42190056,-71.6594087,Talca,,0,Talca,,0
+2957829,Talca,Calle 1 Norte / Doce Ote,Talca,-35.4275561,-71.64803441,Talca,,0,Talca,,0
+2958320,Talca,Doce Oriente / Dos Sur,Talca,-35.42999555,-71.64819121,Talca,,0,Talca,,0
+2958321,Talca,Doce Ote / Tres Sur,Talca,-35.43059838,-71.64824111,Talca,,0,Talca,,0
+2958329,Talca,Ocho Sur / Diecinueve Ote,Talca,-35.43744284,-71.64175151,Talca,,0,Talca,,0
+2958331,Talca,Ocho Sur / Diecinueve Ote,Talca,-35.43762255,-71.64182826,Talca,,0,Talca,,0
+2958333,Talca,Ocho Sur / Dieciocho Ote,Talca,-35.43688601,-71.64369106,Talca,,0,Talca,,0
+2958334,Talca,Catorce Oriente / Diez Sur,Talca,-35.43842448,-71.64640814,Talca,,0,Talca,,0
+2958335,Talca,Catorce Oriente / Doce Sur,Talca,-35.441757,-71.64746493,Talca,,0,Talca,,0
+2958337,Talca,Catorce Oriente / Trece Sur,Talca,-35.44434642,-71.64827496,Talca,,0,Talca,,0
+2958339,Talca,Terminal / 22 Norte / 13 1/2 Ote,Talca,-35.40978321,-71.63520455,Talca,,0,Talca,,0
+2958343,Talca,Diez 1/2 Norte / Doce Ote,Talca,-35.41553239,-71.64676219,Talca,,0,Talca,,0
+2958346,Talca,Seis Pte / Tres Nte,Talca,-35.42295762,-71.67324901,Talca,,0,Talca,,0
+2958348,Talca,Lircay / Pasaje desolación,Talca,-35.41523073,-71.65492684,Talca,,0,Talca,,0
+2958365,Talca,13 1/2 oriente / 20 Norte,Talca,-35.41131782,-71.63738519,Talca,,0,Talca,,0
+2958397,Talca,Terminal San Miguel / Ocho Sur,Talca,-35.4458782,-71.62223876,Talca,,0,Talca,,0
+2958399,Talca,Treinta y dos Ote / Diez Sur,Talca,-35.44545566,-71.63088024,Talca,,0,Talca,,0
+2958400,Talca,32 Oriente / Diez 1/2 Sur,Talca,-35.44602867,-71.63125121,Talca,,0,Talca,,0
+2958401,Talca,Treinta y dos Ote / Diez Sur,Talca,-35.44490363,-71.63053482,Talca,,0,Talca,,0
+2958405,Talca,31 Oriente / 9 1/2 sur,Talca,-35.44370912,-71.63227294,Talca,,0,Talca,,0
+2958407,Talca,Ocho Sur / Treinta Oriente,Talca,-35.44055731,-71.63320095,Talca,,0,Talca,,0
+2958408,Talca,Ocho Sur / Treinta Oriente,Talca,-35.4407496,-71.63328946,Talca,,0,Talca,,0
+2958412,Talca,Ocho Sur/  Veintiuno y Medio Ote,Talca,-35.43838955,-71.63830087,Talca,,0,Talca,,0
+2958416,Talca,Dos Norte / 18 Ote,Talca,-35.42749598,-71.64029651,Talca,,0,Talca,,0
+2958420,Talca,2 Norte / Catorce 1/2 Ote,Talca,-35.4258543,-71.64430103,Talca,,0,Talca,,0
+2958524,Talca,Lircay / Doce Nte,Talca,-35.41337333,-71.65282296,Talca,,0,Talca,,0
+2958525,Talca,Lircay / Trece Norte,Talca,-35.41063582,-71.6499902,Talca,,0,Talca,,0
+2958526,Talca,Lircay / Bencinera HN,Talca,-35.40840813,-71.64756343,Talca,,0,Talca,,0
+2958527,Talca,Avenida Lircay / Teletón,Talca,-35.40559857,-71.64290826,Talca,,0,Talca,,0
+2958528,Talca,Avenida Lircay / teletón,Talca,-35.40524314,-71.6425124,Talca,,0,Talca,,0
+2958531,Talca,Lircay / Trece Norte,Talca,-35.41096805,-71.65017396,Talca,,0,Talca,,0
+2958532,Talca,Lircay / Bencinera HN,Talca,-35.40870328,-71.64766341,Talca,,0,Talca,,0
+2958569,Talca,1 Oriente / Dos Nte,Talca,-35.42452162,-71.66516501,Talca,,0,Talca,,0
+2958572,Talca,Calle 1 Norte / 18 ote,Talca,-35.42819576,-71.64055872,Talca,,0,Talca,,0
+2958583,Talca,31 Oriente / 10 Sur,Talca,-35.44565749,-71.63363814,Talca,,0,Talca,,0
+2958606,Talca,Terminal Villa Francia,Talca,-35.45569087,-71.6590628,Talca,,0,Talca,,0
+2958607,Talca,10 Oriente / 24 Sur,Talca,-35.45552785,-71.65860733,Talca,,0,Talca,,0
+2958608,Talca,24 Sur / 9 1/2 Oriente C,Talca,-35.45379167,-71.65963885,Talca,,0,Talca,,0
+2958609,Talca,24 Sur / Av. 9 Ote,Talca,-35.45332693,-71.66079448,Talca,,0,Talca,,0
+2958610,Talca,Dieciséis Sur / 9 Ote,Talca,-35.44698636,-71.65898387,Talca,,0,Talca,,0
+2958611,Talca,Nueve Oriente / Quince Sur,Talca,-35.44563678,-71.65841764,Talca,,0,Talca,,0
+2958634,Talca,Catorce Sur / Pasaje Paula Jaraquemada,Talca,-35.44232109,-71.65701923,Talca,,0,Talca,,0
+2958662,Talca,El Arrollo / Cinco 1/2 Oriente,Talca,-35.44157982,-71.66152592,Talca,,0,Talca,,0
+2958663,Talca,Cinco Oriente / Trece Sur,Talca,-35.44060195,-71.66274923,Talca,,0,Talca,,0
+2958668,Talca,Once 1/2 Sur / Psje Sto Domingo,Talca,-35.43981763,-71.65596137,Talca,,0,Talca,,0
+2958670,Talca,Nueve Oriente / Once Sur,Talca,-35.43916307,-71.6546701,Talca,,0,Talca,,0
+2958671,Talca,Nueve Oriente / Nueve 1/2 Sur,Talca,-35.43792655,-71.65454521,Talca,,0,Talca,,0
+2958672,Talca,Nueve Oriente / Nueve Sur,Talca,-35.43732672,-71.65447587,Talca,,0,Talca,,0
+2958673,Talca,Once Oriente / Siete Sur,Talca,-35.43509658,-71.65097161,Talca,,0,Talca,,0
+2958674,Talca,Once Oriente / Cinco Sur,Talca,-35.43328154,-71.65077567,Talca,,0,Talca,,0
+2958675,Talca,6 Oriente / Ocho nte,Talca,-35.41731904,-71.65758298,Talca,,0,Talca,,0
+2958676,Talca,Cuatro Oriente / 12 Nte,Talca,-35.41143935,-71.65961322,Talca,,0,Talca,,0
+2958677,Talca,Cuatro Oriente / 12 Nte,Talca,-35.41079697,-71.65966633,Talca,,0,Talca,,0
+2958678,Talca,4 Oriente / Pje 12 1/2 Nte,Talca,-35.40872173,-71.65928507,Talca,,0,Talca,,0
+2958681,Talca,Cinco Oriente / 19 Nte,Talca,-35.40295121,-71.65300512,Talca,,0,Talca,,0
+2958682,Talca,Diecinueve Norte C / Cinco Ote,Talca,-35.40212963,-71.65229989,Talca,,0,Talca,,0
+2958684,Talca,Cinco Oriente / 18 nte,Talca,-35.40090589,-71.65240585,Talca,,0,Talca,,0
+2958685,Talca,Cinco Oriente / Circunvaliación nte,Talca,-35.40021653,-71.65225658,Talca,,0,Talca,,0
+2958686,Talca,5 Ote / 18 Nte,Talca,-35.39845138,-71.65191599,Talca,,0,Talca,,0
+2958687,Talca,Terminal / Av Lircay,Talca,-35.39050626,-71.64221048,Talca,,0,Talca,,0
+2959086,Talca,Cinco Ote / Domingo Sta. María,Talca,-35.40775012,-71.65535868,Talca,,0,Talca,,0
+2959095,Talca,Carretera acceso Norte / 2 1/2 Oriente D,Talca,-35.39710077,-71.64988428,Talca,,0,Talca,,0
+2959098,Talca,Pasaje 25 1/2 Norte /6 1/2 Oriente D,Talca,-35.39266841,-71.64362323,Talca,,0,Talca,,0
+2959125,Talca,6 1/2 Oriente D / Psje 28 Norte,Talca,-35.39122507,-71.64282892,Talca,,0,Talca,,0
+2959170,Talca,21 Norte / Cruce Av. Lircay - Av Circunvalación,Talca,-35.39477067,-71.65077308,Talca,,0,Talca,,0
+2959171,Talca,Cruce Av. Lircay - Av Circunvalación / Caletera Acceso norte,Talca,-35.39637303,-71.65142405,Talca,,0,Talca,,0
+2959173,Talca,Cinco Oriente / Aníbal Pinto,Talca,-35.40775888,-71.65552765,Talca,,0,Talca,,0
+2959181,Talca,Tres Oriente / Doce Nte,Talca,-35.41102461,-71.66107146,Talca,,0,Talca,,0
+2959183,Talca,Tres Oriente / Diez Nte,Talca,-35.41417387,-71.66141494,Talca,,0,Talca,,0
+2959185,Talca,Tres Oriente / 4 Norte,Talca,-35.42171795,-71.66212453,Talca,,0,Talca,,0
+2959190,Talca,Nueve Oriente / Nueve Sur,Talca,-35.4369625,-71.65453523,Talca,,0,Talca,,0
+2959194,Talca,6 Oriente / Doce Sur,Talca,-35.43922429,-71.66117102,Talca,,0,Talca,,0
+2959207,Talca,Nueve Oriente / Quince Sur,Talca,-35.44559413,-71.65854245,Talca,,0,Talca,,0
+2970680,Talca,Nueve Oriente / Dieciocho Sur,Talca,-35.44886954,-71.66060507,Talca,,0,Talca,,0
+2972807,Talca,29 Sur / Av 9 ote,Talca,-35.4593482,-71.66483492,Talca,,0,Talca,,0
+2972808,Talca,10 1/2 Ote / 29 Sur,Talca,-35.46106757,-71.65975214,Talca,,0,Talca,,0
+2972828,Talca,28 Sur / Av. 9 1/2 Ote,Talca,-35.45896369,-71.66175038,Talca,,0,Talca,,0
+2972829,Talca,28 Sur / Av.9 Ote,Talca,-35.45822961,-71.66359037,Talca,,0,Talca,,0
+2972843,Talca,Avenida 9 Oriente / 23 Sur,Talca,-35.45182581,-71.66015982,Talca,,0,Talca,,0
+2972848,Talca,Dieciséis Sur / Diez Ote,Talca,-35.44834976,-71.65591413,Talca,,0,Talca,,0
+2972870,Talca,Catorce Sur / Mayor Mario Muñoz,Talca,-35.44622515,-71.65272368,Talca,,0,Talca,,0
+2972885,Talca,Carlos Schorr / Balmaceda,Talca,-35.42923695,-71.67367011,Talca,,0,Talca,,0
+2972886,Talca,Colin / Los Maitenes,Talca,-35.43311928,-71.67881362,Talca,,0,Talca,,0
+2972887,Talca,Colin / Caracas,Talca,-35.43154268,-71.6777122,Talca,,0,Talca,,0
+2972889,Talca,Circunvalación Poniente / Los Maitenes,Talca,-35.43448468,-71.67936717,Talca,,0,Talca,,0
+2972890,Talca,Colin / 14 Sur,Talca,-35.43491329,-71.68011972,Talca,,0,Talca,,0
+2972898,Talca,Colin / Los Boldos,Talca,-35.43539423,-71.68016384,Talca,,0,Talca,,0
+2972919,Talca,Colin / 20 Sur,Talca,-35.43969927,-71.6833406,Talca,,0,Talca,,0
+2972920,Talca,Colin / 19 Sur,Talca,-35.43768366,-71.6816175,Talca,,0,Talca,,0
+2972933,Talca,Veinticuatro 1/2 Sur B / Cinco 1/2 Pte,Talca,-35.44462628,-71.68130113,Talca,,0,Talca,,0
+2976538,Talca,Avenida Duao / Av 5 Pte,Talca,-35.45426481,-71.6825862,Talca,,0,Talca,,0
+2976550,Talca,Provincia de  Cauquenes  /Provincia de ,Talca,,Talca,-35.45647146,-71.67828414,Talca,,0,Talca,,0
+2976551,Talca,San Javier / Provincia de Cauquenes,Talca,-35.45934072,-71.67941715,Talca,,0,Talca,,0
+2976560,Talca,San Javier / Provincia de Linares,Talca,-35.45868301,-71.68111882,Talca,,0,Talca,,0
+2976563,Talca,San Javier / Av. 5 Pte,Talca,-35.45783919,-71.68322575,Talca,,0,Talca,,0
+2976565,Talca,San Javier  / Provincia de Curico,Talca,-35.45723174,-71.68478288,Talca,,0,Talca,,0
+2976566,Talca,Unihue / Provincia de ,Talca,,Talca,-35.45527747,-71.684385,Talca,,0,Talca,,0
+2976572,Talca,Colin / 20 Sur,Talca,-35.44092084,-71.68383832,Talca,,0,Talca,,0
+2976576,Talca,Circunvalación Poniente / Los Caquis,Talca,-35.43778199,-71.68144851,Talca,,0,Talca,,0
+2976581,Talca,Circunvalación Poniente / Aida,Talca,-35.43165151,-71.67744065,Talca,,0,Talca,,0
+2976582,Talca,Carlos Schorr / Colbún,Talca,-35.42863592,-71.67113007,Talca,,0,Talca,,0
+2976602,Talca,Terminal / Arturo Prat,Talca,-35.44992927,-71.68099523,Talca,,0,Talca,,0
+2976678,Talca,Cuatro Poniente / Tres Pte,Talca,-35.44548719,-71.6766959,Talca,,0,Talca,,0
+2976784,Talca,Ignacio Carrera Pinto / Uno 1/2 Pte,Talca,-35.44417071,-71.67102312,Talca,,0,Talca,,0
+2976785,Talca,Ignacio Carrera Pinto / Adolfo Becker,Talca,-35.44480407,-71.67016301,Talca,,0,Talca,,0
+2976791,Talca,1 Oriente / Diez Sur,Talca,-35.43889934,-71.66649047,Talca,,0,Talca,,0
+2976792,Talca,1 Oriente / 16 Sur,Talca,-35.44342211,-71.66699409,Talca,,0,Talca,,0
+2976793,Talca,1 Oriente / 12 Sur,Talca,-35.44083701,-71.66667491,Talca,,0,Talca,,0
+2976794,Talca,1 Oriente / 9 Sur,Talca,-35.43800786,-71.6664183,Talca,,0,Talca,,0
+2976807,Talca,Calle 1 Poniente / Dos Sur,Talca,-35.42852883,-71.6668144,Talca,,0,Talca,,0
+2976833,Talca,Manuel Rodríguez / Doce Nte,Talca,-35.41002778,-71.66286049,Talca,,0,Talca,,0
+2976834,Talca,Manuel Rodríguez / Pje Igualdad,Talca,-35.40861554,-71.66223547,Talca,,0,Talca,,0
+2976848,Talca,Pasaje Libertad / Catorce Norte,Talca,-35.40582708,-71.65926895,Talca,,0,Talca,,0
+2976849,Talca,Terminal  / Catorce Norte,Talca,-35.40521199,-71.66010618,Talca,,0,Talca,,0
+2976904,Talca,Pasaje Gabriela Mistral / Pasaje Concordia,Talca,-35.40713184,-71.66124987,Talca,,0,Talca,,0
+2976908,Talca,1 Oriente / 4 Sur,Talca,-35.43031223,-71.66572273,Talca,,0,Talca,,0
+2976909,Talca,1 Oriente / 6 Sur,Talca,-35.43250866,-71.66594266,Talca,,0,Talca,,0
+2977779,Talca,Cinco Poniente / 22 sur O,Talca,-35.44324729,-71.678828,Talca,,0,Talca,,0
+2977782,Talca,Veintiséis Sur / 4 Pte,Talca,-35.44864448,-71.67857051,Talca,,0,Talca,,0
+2977790,Talca,Terminal / Calle 21 Pte,Talca,-35.44269881,-71.69921279,Talca,,0,Talca,,0
+2977791,Talca,Veintisiete Sur / 17 Pte,Talca,-35.44305139,-71.6948533,Talca,,0,Talca,,0
+2977792,Talca,Veintisiete Sur / 14 Pte,Talca,-35.44436675,-71.6920797,Talca,,0,Talca,,0
+2977793,Talca,Colin / 27 Sur,Talca,-35.44527744,-71.68735145,Talca,,0,Talca,,0
+2977794,Talca,Colin / 25 Sur,Talca,-35.44322402,-71.68579153,Talca,,0,Talca,,0
+2977796,Talca,Cancha Rayada / 6 Nte,Talca,-35.41994158,-71.65184068,Talca,,0,Talca,,0
+2977805,Talca,Acceso Norte ,Talca, / Cruce Ruta 5,Talca,-35.39946922,-71.62813209,Talca,,0,Talca,,0
+2977806,Talca,Ruta 118 / Ruta 5,Talca,-35.39874276,-71.62624329,Talca,,0,Talca,,0
+2977808,Talca,Cancha Rayada / Siete Ote,Talca,-35.41856203,-71.65295004,Talca,,0,Talca,,0
+2977810,Talca,Colin / Camino La Florida,Talca,-35.44027418,-71.68376533,Talca,,0,Talca,,0
+2977811,Talca,Colin / 23 Sur,Talca,-35.44186795,-71.68507049,Talca,,0,Talca,,0
+2977816,Talca,Colin / 26 Sur,Talca,-35.44338933,-71.68629795,Talca,,0,Talca,,0
+2977818,Talca,Colin / 27 Sur,Talca,-35.44527729,-71.68771148,Talca,,0,Talca,,0
+2977831,Talca,Acceso Norte ,Talca, / Cruce Ruta 5,Talca,-35.39961949,-71.62679851,Talca,,0,Talca,,0
+2977834,Talca,Autopista ,Talca, - Chillán /Kim 248,Talca,-35.39270983,-71.61322706,Talca,,0,Talca,,0
+2977835,Talca,Panamericana Sur km 246,Talca,-35.38403482,-71.60513092,Talca,,0,Talca,,0
+2977837,Talca,Panamericana Sur km 245,Talca,-35.37630459,-71.59862092,Talca,,0,Talca,,0
+2977838,Talca,Panamericana Sur km 245,Talca,-35.37656547,-71.5981096,Talca,,0,Talca,,0
+2977839,Talca,Caletera Ruta 5 / Cruce ruta 5 (Panguilemo),Talca,-35.3720886,-71.59290612,Talca,,0,Talca,,0
+2977840,Talca,Cruce Panguilemo,Talca,-35.36515739,-71.59437329,Talca,,0,Talca,,0
+2977841,Talca,Terminal / Panguilemo,Talca,-35.3622373,-71.58852338,Talca,,0,Talca,,0
+2978043,Talca,Panamericana Sur / Salida ,Talca, Chillán,Talca,-35.36902004,-71.59076303,Talca,,0,Talca,,0
+2978749,Talca,Panamericana Sur km 246,Talca,-35.38376468,-71.60550714,Talca,,0,Talca,,0
+2978751,Talca,Panamericana / Santa Corina A,Talca,-35.39208016,-71.61325765,Talca,,0,Talca,,0
+2978753,Talca,Camino a San Miguel / Diez Sur A,Talca,-35.44799553,-71.62414581,Talca,,0,Talca,,0
+2978760,Talca,Dieciseis Sur / Tres 1/2 Pte,Talca,-35.44433279,-71.66500695,Talca,,0,Talca,,0
+2978761,Talca,Dieciséis Sur / 6 Ote,Talca,-35.44513752,-71.66344169,Talca,,0,Talca,,0
+3274329,Talca,6 Oriente / Dieciocho sur,Talca,-35.44770542,-71.66432956,Talca,,0,Talca,,0
+3274412,Talca,Tres Pte / Calle 25 Sur,Talca,-35.44794368,-71.67553009,Talca,,0,Talca,,0
+3333622,Talca,Ocho Sur / Las Rosas,Talca,-35.43926666,-71.63618204,Talca,,0,Talca,,0
+3333702,Talca,Veintiocho 1/2 Sur/ Calle 24 Pte,Talca,-35.44276874,-71.70247703,Talca,,0,Talca,,0
+3333716,Talca,Treinta Sur / Calle 24 Pte,Talca,-35.44429836,-71.70267016,Talca,,0,Talca,,0
+3333835,Talca,19 1/2 Poniente / Psje 29 1/2 Sur A,Talca,-35.44578181,-71.69877317,Talca,,0,Talca,,0
+3333836,Talca,29 Sur / Pje 18 1/2 Pte,Talca,-35.44513194,-71.69744874,Talca,,0,Talca,,0
+3333838,Talca,Veintinueve Sur / 14 pte,Talca,-35.44668748,-71.69333813,Talca,,0,Talca,,0
+3333841,Talca,Catorce Oriente / Psje Cinco 1/2 Nte B,Talca,-35.42269004,-71.64555496,Talca,,0,Talca,,0
+3333843,Talca,Catorce Oriente / Psje Seis Nte,Talca,-35.42122887,-71.64496131,Talca,,0,Talca,,0
+3333844,Talca,Catorce Oriente / Doce Nte,Talca,-35.41696898,-71.64214153,Talca,,0,Talca,,0
+3333847,Talca,Catorce Oriente / Catorce Nte,Talca,-35.41609513,-71.64112381,Talca,,0,Talca,,0
+3333883,Talca,Av. 21 Nte / Av. 22 Ote,Talca,-35.41055489,-71.62628621,Talca,,0,Talca,,0
+3333884,Talca,Av. 21 Nte / 25 Ote,Talca,-35.41205888,-71.6220215,Talca,,0,Talca,,0
+3333885,Talca,26 Ote / Terminal,Talca,-35.41170912,-71.62028342,Talca,,0,Talca,,0
+3333887,Talca,22 Nte / 23 Ote,Talca,-35.40959302,-71.62323117,Talca,,0,Talca,,0
+3333890,Talca,Av. 21 Nte / Av. 22 Ote,Talca,-35.41036908,-71.62589997,Talca,,0,Talca,,0
+3333891,Talca,Circunvalación / 17 Ote,Talca,-35.41755871,-71.63668513,Talca,,0,Talca,,0
+3333908,Talca,Veintinueve Sur / 18 Pte,Talca,-35.44541932,-71.69645548,Talca,,0,Talca,,0
+3333923,Talca,Veintiocho 1/2 Sur / Veintiuno 1/2 Pte A,Talca,-35.44352044,-71.70035004,Talca,,0,Talca,,0
+3333938,Talca,Terminal Taxual A / Cruce Ruta 5,Talca,-35.42255108,-71.59951776,Talca,,0,Talca,,0
+3333939,Talca,Cruce Ruta 5 / K-55,Talca,-35.42335598,-71.59968773,Talca,,0,Talca,,0
+3333942,Talca,Cruce Ruta 115 / Cruce K-15,Talca,-35.42408457,-71.60264312,Talca,,0,Talca,,0
+3333948,Talca,Cruce K 15 / Pta de Diamante,Talca,-35.42489063,-71.6035956,Talca,,0,Talca,,0
+3333960,Talca,K-55 / 5 Nte,Talca,-35.43281797,-71.60833361,Talca,,0,Talca,,0
+3333963,Talca,Camino Las Rastras / Cinco Nte,Talca,-35.433515,-71.60867539,Talca,,0,Talca,,0
+3339094,Talca,Camino Las Rastras / Cuarenta Ote,Talca,-35.43766025,-71.6118352,Talca,,0,Talca,,0
+3339112,Talca,Uno Sur / Av. San Miguel,Talca,-35.438865,-71.61275816,Talca,,0,Talca,,0
+3339113,Talca,Uno Sur / Av. San Miguel,Talca,-35.43909054,-71.61313433,Talca,,0,Talca,,0
+3339127,Talca,San Miguel / Treinte Ote,Talca,-35.43472524,-71.62802604,Talca,,0,Talca,,0
+3339205,Talca,I - Avenida San Miguel / 21 Ote,Talca,-35.43224859,-71.63650805,Talca,,0,Talca,,0
+3339250,Talca,Barcelona / El Arenal,Talca,-35.43417951,-71.66797887,Talca,,0,Talca,,0
+3339283,Talca,Circunvalación Sur / J María Auxiliadora,Talca,-35.43838546,-71.67037806,Talca,,0,Talca,,0
+3339286,Talca,Catorce Sur / Cuatro Pte,Talca,-35.43916889,-71.67388164,Talca,,0,Talca,,0
+3339376,Talca,Catorce Sur / Los Almendros,Talca,-35.4360884,-71.67882962,Talca,,0,Talca,,0
+3339380,Talca,Cruce Ruta 5 / K -610,Talca,-35.45409634,-71.69092839,Talca,,0,Talca,,0
+3339381,Talca,Cruce Ruta 5 / Colegio Santo Tomás,Talca,-35.45498001,-71.69198245,Talca,,0,Talca,,0
+3339382,Talca,K-610 / Calle 5,Talca,-35.45536368,-71.69567295,Talca,,0,Talca,,0
+3339383,Talca,K-610 / Calle 5,Talca,-35.45524384,-71.69593358,Talca,,0,Talca,,0
+3339407,Talca,K-610 / Principal,Talca,-35.4567306,-71.70313948,Talca,,0,Talca,,0
+3339408,Talca,K-610 / Obispo Manuel Larrain,Talca,-35.45735751,-71.70855253,Talca,,0,Talca,,0
+3339411,Talca,Principal / Calle Juan Pablo Segundo,Talca,-35.45975682,-71.70300397,Talca,,0,Talca,,0
+3339412,Talca,Juan Pablo Segundo / Pasaje 25,Talca,-35.45941157,-71.70540278,Talca,,0,Talca,,0
+3339413,Talca,Calle Juan Pablo Segundo / Obispo Manuel Larrain,Talca,-35.45848918,-71.70832438,Talca,,0,Talca,,0
+3339417,Talca,K-610 / Terminal A,Talca,-35.45752393,-71.70629382,Talca,,0,Talca,,0
+3339624,Talca,Cruce Ruta 5 / Colegio Santo Tomás,Talca,-35.45444988,-71.6912359,Talca,,0,Talca,,0
+3339632,Talca,Colin / veintinueve Sur,Talca,-35.44816656,-71.68984889,Talca,,0,Talca,,0
+3339636,Talca,Colin / Veintiocho Sur,Talca,-35.44781989,-71.6895871,Talca,,0,Talca,,0
+3339641,Talca,K-55,Talca,-35.42536625,-71.60372615,Talca,,0,Talca,,0
+3339987,Talca,Cruce ruta 115 / Parada 1,Talca,-35.44888984,-71.54365744,Talca,,0,Talca,,0
+3339991,Talca,K-555 / parada 2,Talca,-35.44808117,-71.54309744,Talca,,0,Talca,,0
+3339995,Talca,K-555 / Parada 3,Talca,-35.4466155,-71.5421689,Talca,,0,Talca,,0
+3339999,Talca,Cruce ruta 115 / Parada 1,Talca,-35.44877995,-71.5434435,Talca,,0,Talca,,0
+3340001,Talca,K-555 / Parada 2,Talca,-35.44631522,-71.54182613,Talca,,0,Talca,,0
+3340006,Talca,K-555 / Parada 4,Talca,-35.44161153,-71.53748961,Talca,,0,Talca,,0
+3340020,Talca,K-555 / Parada 3,Talca,-35.44419784,-71.53924048,Talca,,0,Talca,,0
+3340024,Talca,K-555 / Parada 4,Talca,-35.43364919,-71.53451407,Talca,,0,Talca,,0
+3340038,Talca,Cruce Ruta 115 San Miguel / parada 1,Talca,-35.43004383,-71.53382358,Talca,,0,Talca,,0
+3340041,Talca,Cruce Ruta 115 San Miguel / Parada 2,Talca,-35.42890391,-71.54020664,Talca,,0,Talca,,0
+3340042,Talca,Cruce Ruta 115 San Miguel / Parada 3,Talca,-35.42832071,-71.54358576,Talca,,0,Talca,,0
+3340061,Talca,Cruce Ruta 115 San Miguel / Parada 4,Talca,-35.42379259,-71.56529464,Talca,,0,Talca,,0
+3340068,Talca,Cruce Ruta 115 San Miguel / Parada 3,Talca,-35.42434094,-71.56236193,Talca,,0,Talca,,0
+3340070,Talca,Cruce Ruta 115 San Miguel / Parada 5,Talca,-35.42216246,-71.57754254,Talca,,0,Talca,,0
+3340077,Talca,Cruce Ruta 115 San Miguel / Parada 6,Talca,-35.4217377,-71.59041317,Talca,,0,Talca,,0
+3340142,Talca,Cruce Ruta 115 San Miguel / Parada 4,Talca,-35.42235436,-71.57496214,Talca,,0,Talca,,0
+3340143,Talca,Cruce Ruta 115 San Miguel / Parada 2,Talca,-35.42492474,-71.56002223,Talca,,0,Talca,,0
+3340144,Talca,Cruce Ruta 115 San Miguel / Parada 1,Talca,-35.42701422,-71.5526247,Talca,,0,Talca,,0
+3388257,Talca,Calle 21 Poniente / Veintidos 1/2 Sur,Talca,-35.43817973,-71.69466645,Talca,,0,Talca,,0
+3388261,Talca,Diecisiete Poniente / Veinte 1/2 Sur,Talca,-35.43681039,-71.6900089,Talca,,0,Talca,,0
+3388265,Talca,Treinta y dos Ote / Pasaje Siete y medio Sur B,Talca,-35.4425677,-71.62952632,Talca,,0,Talca,,0
+3388279,Talca,Terminal,Talca,-35.43821469,-71.62611991,Talca,,0,Talca,,0
+3388291,Talca,Diecisiete Poniente / Diecinueve Sur,Talca,-35.43578677,-71.68850541,Talca,,0,Talca,,0
+3388474,Talca,Terminal / Templanza,Talca,-35.3934122,-71.65133268,Talca,,0,Talca,,0
+3388493,Talca,Cinco 1/2 / Ote B / Circunvalación Norte,Talca,-35.39880835,-71.64776802,Talca,,0,Talca,,0
+3388496,Talca,Circunvalación Nte / Veintiuno 1/2 Norte,Talca,-35.39973974,-71.64588358,Talca,,0,Talca,,0
+3388507,Talca,Circunvalación Norte / Cinco 1/2 Ote D,Talca,-35.40017248,-71.64475309,Talca,,0,Talca,,0
+3388513,Talca,Veinte Norte B / Diecinueve Nte C,Talca,-35.40280495,-71.64938807,Talca,,0,Talca,,0
+3388514,Talca,Diecinueve Norte C / Cinco 1/2 Ote,Talca,-35.40244282,-71.65096661,Talca,,0,Talca,,0
+3388522,Talca,Cinco Oriente / Dieciseis Nte,Talca,-35.40480071,-71.65360105,Talca,,0,Talca,,0
+3388526,Talca,Catorce Nte / Seis 1/2 Oriente B,Talca,-35.40683533,-71.65150729,Talca,,0,Talca,,0
+3388533,Talca,Siete Oriente / Trece Nte,Talca,-35.40961925,-71.65230095,Talca,,0,Talca,,0
+3388580,Talca,Dieciséis Sur / Nueve 1/2 Sur,Talca,-35.4475811,-71.65765263,Talca,,0,Talca,,0
+3388586,Talca,Terminal / Once Oriente,Talca,-35.44864011,-71.6519925,Talca,,0,Talca,,0
+3388694,Talca,Once Oriente / Cuatro Nte,Talca,-35.42395086,-71.64968742,Talca,,0,Talca,,0
+3388759,Talca,Cinco 1/2 Oriente D / 20 Nte D,Talca,-35.40149334,-71.64716824,Talca,,0,Talca,,0
+3388766,Talca,Circunvalación Norte / Cinco 1/2 Ote C,Talca,-35.39937025,-71.64656907,Talca,,0,Talca,,0
+3390952,Talca,Avenida San Miguel / Calle 30 Ote,Talca,-35.43440549,-71.62895915,Talca,,0,Talca,,0
+3391043,Talca,k-610 / Parada 1,Talca,-35.45916198,-71.71922133,Talca,,0,Talca,,0
+3391048,Talca,k-610 / Parada 1,Talca,-35.46126411,-71.72498791,Talca,,0,Talca,,0
+3391064,Talca,k-610 / Población Los Maitenes,Talca,-35.46258184,-71.72806237,Talca,,0,Talca,,0
+3391066,Talca,k-610 / María Aux. Colín,Talca,-35.46570036,-71.73170104,Talca,,0,Talca,,0
+3391067,Talca,k-610 / María Aux. Colín,Talca,-35.46618146,-71.73200573,Talca,,0,Talca,,0
+3391068,Talca,K-610 / paradero 3,Talca,-35.46953922,-71.73790748,Talca,,0,Talca,,0
+3391242,Talca,K-610 / Parada 3,Talca,-35.46934559,-71.74383965,Talca,,0,Talca,,0
+3391251,Talca,Querquel / K-610,Talca,-35.47119697,-71.74634559,Talca,,0,Talca,,0
+3391253,Talca,Quernel / paradero 3,Talca,-35.47901713,-71.74714118,Talca,,0,Talca,,0
+3391254,Talca,Quernel / Paradero 1,Talca,-35.47295575,-71.74644649,Talca,,0,Talca,,0
+3391255,Talca,Quernel / Paradero 2,Talca,-35.47513571,-71.74663961,Talca,,0,Talca,,0
+3391256,Talca,Quernel / paradero 4,Talca,-35.48028177,-71.74726993,Talca,,0,Talca,,0
+3391257,Talca,Quernel / Paradero 1,Talca,-35.47294701,-71.74652427,Talca,,0,Talca,,0
+3391263,Talca,Quernel / Paradero 2,Talca,-35.48182159,-71.75183773,Talca,,0,Talca,,0
+3391265,Talca,Quernel / Paradero 6,Talca,-35.48497103,-71.75645918,Talca,,0,Talca,,0
+3391266,Talca,Terminal,Talca,-35.48511954,-71.75848156,Talca,,0,Talca,,0
+3391267,Talca,Quernel / Paradero 5,Talca,-35.48333735,-71.75399155,Talca,,0,Talca,,0
+3391269,Talca,k-610 / Parada 2,Talca,-35.46139308,-71.72501028,Talca,,0,Talca,,0
+3391906,Talca,Quernel / Cementerio,Talca,-35.48459101,-71.74788415,Talca,,0,Talca,,0
+3719534,Talca,Avenida Duao / Numpay,Talca,-35.45372575,-71.68684203,Talca,,0,Talca,,0
+3719538,Talca,Avenida Duao / Chacarillas,Talca,-35.45373707,-71.68496618,Talca,,0,Talca,,0
+3766900,Talca,Madrid / Pasaje Badajoz,Talca,-35.43686043,-71.67318612,Talca,,0,Talca,,0
+3766911,Talca,San Juan / Bernardo O´Higgins,Talca,-35.43428047,-71.67259637,Talca,,0,Talca,,0
+3766914,Talca,Bernardo O'Higgins / El Arenal,Talca,-35.430526,-71.67149976,Talca,,0,Talca,,0
+3766957,Talca,Veintitrés Oriente / Psje Uno 1/2 Sur A,Talca,-35.43147363,-71.633916,Talca,,0,Talca,,0
+3766960,Talca,Veintitrés Oriente / Cuatro Norte,Talca,-35.42740193,-71.63179495,Talca,,0,Talca,,0
+3766961,Talca,Veintitrés Oriente / Dos Sur,Talca,-35.4319448,-71.63410217,Talca,,0,Talca,,0
+3766965,Talca,Veintitrés Oriente / Diagonal Cam. al agua Potable,Talca,-35.42528687,-71.63038847,Talca,,0,Talca,,0
+3766967,Talca,Veintitrés Oriente / Ocho 1/2 Norte,Talca,-35.42405762,-71.62920449,Talca,,0,Talca,,0
+3766977,Talca,Diez Norte / Veintitres Ote,Talca,-35.4234245,-71.6282838,Talca,,0,Talca,,0
+3767008,Talca,Avenida Circunvalación Oriente / Cinco Nte,Talca,-35.42698144,-71.6260609,Talca,,0,Talca,,0
+3767010,Talca,Lago Laja / 25 Ote,Talca,-35.42905774,-71.62901402,Talca,,0,Talca,,0
+3767013,Talca,Avenida Circunvalación Oriente / Cinco Nte,Talca,-35.42710601,-71.62571489,Talca,,0,Talca,,0
+3767014,Talca,Avenida Circunvalación Oriente / Siete Nte,Talca,-35.42500562,-71.62485123,Talca,,0,Talca,,0
+4425238,Talca,Culenar,Talca,-35.45703453,-71.69296861,Talca,,0,Talca,,0
+4425239,Talca,Camino a Maule,Talca,-35.46267985,-71.6948247,Talca,,0,Talca,,0
+4425240,Talca,Camino a Maule - Parque del Maule,Talca,-35.46628006,-71.69600487,Talca,,0,Talca,,0
+4425242,Talca,Camino a Maule - Camino Barros Negros,Talca,-35.47387317,-71.69817209,Talca,,0,Talca,,0
+4425243,Talca,Camino a Maule - Camino Ruta 5,Talca,-35.47739425,-71.70013547,Talca,,0,Talca,,0
+4425244,Talca,Camino a Maule - Unihue,Talca,-35.48527024,-71.70416415,Talca,,0,Talca,,0
+4425245,Talca,Camino a Maule - Escuela Numpay,Talca,-35.48651513,-71.70473814,Talca,,0,Talca,,0
+4425246,Talca,Camino a Maule - Republica del Peru,Talca,-35.51886668,-71.70033932,Talca,,0,Talca,,0
+4425247,Talca,Camino a Maule - Las Vertientes,Talca,-35.52351221,-71.69851542,Talca,,0,Talca,,0
+4425248,Talca,Balmaceda - Camino a ,Talca,,Talca,-35.52483946,-71.69570446,Talca,,0,Talca,,0
+4425249,Talca,Balmaceda - Freire,Talca,-35.52450328,-71.69395298,Talca,,0,Talca,,0
+4425250,Talca,Balmaceda - Bernardo O'Higgins,Talca,-35.52423478,-71.69246167,Talca,,0,Talca,,0
+4425251,Talca,Ignacio Serrano - Portales,Talca,-35.52090786,-71.68828815,Talca,,0,Talca,,0
+4425252,Talca,Balmaceda - Ignacio Serrano,Talca,-35.52339433,-71.68778121,Talca,,0,Talca,,0
+4425253,Talca,Ignacio Serrano - Las Araucarias,Talca,-35.51865928,-71.68887287,Talca,,0,Talca,,0
+4425254,Talca,Las Araucarias - Bernardo O'Higgins,Talca,-35.51934914,-71.69342995,Talca,,0,Talca,,0
+4425255,Talca,Bernardo O'Higgins - Balmaceda,Talca,-35.52144489,-71.6931054,Talca,,0,Talca,,0
+4425256,Talca,Diego Portales - Camilo Zamorano,Talca,-35.5220998,-71.69612288,Talca,,0,Talca,,0
+4425259,Talca,Portales - Camino a ,Talca,,Talca,-35.52242944,-71.69867635,Talca,,0,Talca,,0
+4425260,Talca,Camino a Maule - Cajamarca,Talca,-35.51850864,-71.70019448,Talca,,0,Talca,,0
+4425262,Talca,Camino a ,Talca, - El Mirador,Talca,-35.51645648,-71.70100987,Talca,,0,Talca,,0
+4425263,Talca,Camino a ,Talca, - Flores de Unihue,Talca,-35.49439459,-71.70478106,Talca,,0,Talca,,0
+4425265,Talca,Escuela Numpay,Talca,-35.48651513,-71.70428753,Talca,,0,Talca,,0
+4425266,Talca,Camino a ,Talca, - Camino a Ruta 5,Talca,-35.47774373,-71.69967413,Talca,,0,Talca,,0
+4425267,Talca,Camino a ,Talca, - Loteo Barros Negros,Talca,-35.47372464,-71.69759274,Talca,,0,Talca,,0
+4425268,Talca,Camino a ,Talca, - Colegio San Esteban,Talca,-35.46725873,-71.69581175,Talca,,0,Talca,,0
+4425269,Talca,Camino a ,Talca, - Parque del maule,Talca,-35.46594801,-71.69527531,Talca,,0,Talca,,0
+4425270,Talca,Parada Camino a ,Talca,,Talca,-35.46262742,-71.69430971,Talca,,0,Talca,,0
+4425271,Talca,Terminal de Buses,Talca,-35.43016581,-71.64733887,Talca,,0,Talca,,0
+4425518,Talca,3 Sur - Plaza Arturo Prat,Talca,-35.43102253,-71.64497852,Talca,,0,Talca,,0
+4425519,Talca,Cruce varoli - Ruta 5,Talca,-35.43205408,-71.63768291,Talca,,0,Talca,,0
+4425520,Talca,Ruta 5 - Cruce Tabaco,Talca,-35.45031382,-71.64450645,Talca,,0,Talca,,0
+4425521,Talca,Ruta 5 Sur - Camino Los Patos Chacarillas,Talca,-35.46861312,-71.65183157,Talca,,0,Talca,,0
+4425522,Talca,Ruta 5 - Cruce Unihue,Talca,-35.48839334,-71.65965557,Talca,,0,Talca,,0
+4425523,Talca,Ruta 5 - Km 263,Talca,-35.50003728,-71.66424751,Talca,,0,Talca,,0
+4425524,Talca,Ruta 5 - Cruce Maule,Talca,-35.52169376,-71.67793751,Talca,,0,Talca,,0
+4425525,Talca,Ruta 5 - Pronto Copec,Talca,-35.53113484,-71.68642402,Talca,,0,Talca,,0
+4425526,Talca,Ruta 5 - Puente Maule,Talca,-35.5483726,-71.69681758,Talca,,0,Talca,,0
+4425527,Talca,Ruta 5 - Bobadilla,Talca,-35.56234254,-71.69644207,Talca,,0,Talca,,0
+4425528,Talca,Ruta 5 - Bobadilla 2,Talca,-35.57089744,-71.69889092,Talca,,0,Talca,,0
+4425529,Talca,Ruta 5 - Cruce La Palma,Talca,-35.57714034,-71.70504281,Talca,,0,Talca,,0
+4425530,Talca,Ruta 5 - San Javier,Talca,-35.59748576,-71.70709044,Talca,,0,Talca,,0
+4425532,Talca,Balmaceda - Ruta 5 Sur,Talca,-35.60121436,-71.70702053,Talca,,0,Talca,,0
+4425533,Talca,Balmaceda - Warken,Talca,-35.60064174,-71.70946662,Talca,,0,Talca,,0
+4425534,Talca,Balmaceda - Chanquico,Talca,-35.60018116,-71.71155699,Talca,,0,Talca,,0
+4425535,Talca,Balmaceda - Viña Balduzzi 1,Talca,-35.5997221,-71.71307965,Talca,,0,Talca,,0
+4425643,Talca,Balmaceda - Aldunate,Talca,-35.59878073,-71.71696107,Talca,,0,Talca,,0
+4425644,Talca,Balmaceda- San Jeronimo,Talca,-35.59836106,-71.71865182,Talca,,0,Talca,,0
+4425645,Talca,Balmaceda,Talca,-35.59775626,-71.72106054,Talca,,0,Talca,,0
+4425646,Talca,Balmaceda - Las Araucarias,Talca,-35.59722803,-71.72310282,Talca,,0,Talca,,0
+4425647,Talca,Balmaceda - León Gallo,Talca,-35.59640544,-71.72626959,Talca,,0,Talca,,0
+4425648,Talca,Balmaceda - Chorrillos,Talca,-35.59569662,-71.72897226,Talca,,0,Talca,,0
+4425649,Talca,Chorrillos - Sargento Aldea,Talca,-35.5948344,-71.7289085,Talca,,0,Talca,,0
+4425650,Talca,Chorrillos - Torreblanca,Talca,-35.59252683,-71.72695004,Talca,,0,Talca,,0
+4425651,Talca,Pulluquen - Chorrillos,Talca,-35.5915558,-71.72648752,Talca,,0,Talca,,0
+4425652,Talca,Pulluquen - Colegio Leonardo Da Vinci,Talca,-35.59123622,-71.72777248,Talca,,0,Talca,,0
+4425653,Talca,Pulluquen - Esmeralda,Talca,-35.59088658,-71.72938501,Talca,,0,Talca,,0
+4425654,Talca,Pulluquen - Cienfuegos,Talca,-35.59049413,-71.73109384,Talca,,0,Talca,,0
+4425655,Talca,Pulluquen - Miraflores,Talca,-35.59026129,-71.73214867,Talca,,0,Talca,,0
+4425656,Talca,Pulluquen - Los Olivos,Talca,-35.5894536,-71.73533494,Talca,,0,Talca,,0
+4425657,Talca,Pulluquen - Serrano,Talca,-35.58892757,-71.73746071,Talca,,0,Talca,,0
+4425658,Talca,Serrano - Torreblanca,Talca,-35.59017251,-71.73812643,Talca,,0,Talca,,0
+4425659,Talca,Serrano - Aurelio Meza,Talca,-35.59189729,-71.7387637,Talca,,0,Talca,,0
+4425660,Talca,Jose T. Diaz - Aurelio Meza (Gimnasio Municipal),Talca,-35.59161832,-71.7403151,Talca,,0,Talca,,0
+4425661,Talca,Jose T. Diaz - Arturo Prat,Talca,-35.59274892,-71.74073677,Talca,,0,Talca,,0
+4425662,Talca,Juntas Viejas - Serrano,Talca,-35.59463884,-71.74075243,Talca,,0,Talca,,0
+4425663,Talca,Juntas Viejas   - Plaza,Talca,-35.59633576,-71.74015358,Talca,,0,Talca,,0
+4425664,Talca,Juntas Viejas - Villa Puesta del Sol,Talca,-35.59729197,-71.73969456,Talca,,0,Talca,,0
+4425666,Talca,Juntas Viejas - Osvaldo Villalobos,Talca,-35.59769273,-71.73642091,Talca,,0,Talca,,0
+4425667,Talca,Juntas Viejas - Cancha de Carreras,Talca,-35.5977389,-71.73382891,Talca,,0,Talca,,0
+4425668,Talca,Cancha de Carreras - 2480,Talca,-35.5980033,-71.73309039,Talca,,0,Talca,,0
+4425669,Talca,Cancha de Carreras - Chorrillos,Talca,-35.59887059,-71.73166013,Talca,,0,Talca,,0
+4425670,Talca,Chorrillos - Alessandri,Talca,-35.59728167,-71.73031639,Talca,,0,Talca,,0
+4425671,Talca,Chorrillos 1454,Talca,-35.5963604,-71.72974415,Talca,,0,Talca,,0
+4425672,Talca,Balmaceda - Copec,Talca,-35.59605312,-71.72846475,Talca,,0,Talca,,0
+4425673,Talca,Balmaceda - Leon Gallo,Talca,-35.59645181,-71.72701877,Talca,,0,Talca,,0
+4425674,Talca,Balmaceda - Mac Iver,Talca,-35.59701405,-71.72480422,Talca,,0,Talca,,0
+4425675,Talca,Balmaceda - Las Araucarias,Talca,-35.59738744,-71.72306591,Talca,,0,Talca,,0
+4425676,Talca,Balmaceda - Lago Villarrica (El Mimbral),Talca,-35.59788226,-71.72088016,Talca,,0,Talca,,0
+4425677,Talca,Balmaceda - San Geronimo,Talca,-35.59832308,-71.71935745,Talca,,0,Talca,,0
+4425678,Talca,Balmaceda - Villa Jose Amigo,Talca,-35.59867446,-71.71767877,Talca,,0,Talca,,0
+4425680,Talca,Balmaceda - Warnken,Talca,-35.60059297,-71.71003163,Talca,,0,Talca,,0
+4425681,Talca,Balmaceda - Salida Ruta 5 Sur,Talca,-35.60118463,-71.70752586,Talca,,0,Talca,,0
+4425682,Talca,Calle de Servicio Ruta 5 Sur Parada con Balmaceda,Talca,-35.60109569,-71.7057247,Talca,,0,Talca,,0
+4425683,Talca,Ruta 5 Sur  -- Bobadilla,Talca,-35.57749956,-71.70489656,Talca,,0,Talca,,0
+4425684,Talca,Ruta 5 Sur - Cruce Colbun - Bobadilla,Talca,-35.569891,-71.69825578,Talca,,0,Talca,,0
+4425686,Talca,Ruta 5 Sur - Cruce Maule,Talca,-35.52118749,-71.67698387,Talca,,0,Talca,,0
+4425687,Talca,Ruta 5 Sur - Cruce Unihue,Talca,-35.48912911,-71.65959711,Talca,,0,Talca,,0
+4425688,Talca,Ruta 5 Sur - Chacarillas,Talca,-35.48242479,-71.65693537,Talca,,0,Talca,,0
+4425689,Talca,Ruta 5 Sur - Chacarillas 1,Talca,-35.48024686,-71.65610669,Talca,,0,Talca,,0
+4425691,Talca,Ruta 5 Sur - Cruce El Tabaco,Talca,-35.45062074,-71.64432906,Talca,,0,Talca,,0
+4425692,Talca,21 Oriente - Cruce Varoli - Av San Miguel,Talca,-35.4324868,-71.63693726,Talca,,0,Talca,,0
+4425693,Talca,3 1/2 Sur - Plaza Arturo Prat,Talca,-35.43187705,-71.64426774,Talca,,0,Talca,,0
+4425709,Talca,Cruce Pueblecillo,Talca,-35.54780499,-71.69634261,Talca,,0,Talca,,0
+4426141,Talca,6 Oriente - Alameda,Talca,-35.42181847,-71.65799493,Talca,,0,Talca,,0
+4426142,Talca,6 Oriente - 6 Norte,Talca,-35.41974839,-71.65780933,Talca,,0,Talca,,0
+4426143,Talca,Av Lircay - 19 Norte,Talca,-35.40650621,-71.64474249,Talca,,0,Talca,,0
+4426144,Talca,Ruta 5 - Panguilemo,Talca,-35.37628773,-71.59834027,Talca,,0,Talca,,0
+4426145,Talca,Ruta 5 - Cruce Pelarco,Talca,-35.36897713,-71.59039038,Talca,,0,Talca,,0
+4426146,Talca,Ruta 5 - Panguilemo 2,Talca,-35.35624534,-71.57820839,Talca,,0,Talca,,0
+4426147,Talca,Ruta 5 Sur - Alto Pangue,Talca,-35.34903385,-71.57461913,Talca,,0,Talca,,0
+4426148,Talca,Ruta 5 Sur - Panguilemito,Talca,-35.33587482,-71.55896311,Talca,,0,Talca,,0
+4426149,Talca,Ruta 5 Sur - Pronto Copec San Rafael,Talca,-35.32000273,-71.53899493,Talca,,0,Talca,,0
+4426150,Talca,Ruta 5 Sur - San Rafael,Talca,-35.30544239,-71.52065548,Talca,,0,Talca,,0
+4426151,Talca,Av Oriente - Villa Don Sebastian,Talca,-35.302325,-71.51381314,Talca,,0,Talca,,0
+4426152,Talca,Av Oriente - Villa Don Sebastian 2,Talca,-35.30113418,-71.51237547,Talca,,0,Talca,,0
+4426153,Talca,Av Cementerio - Cementerio de San Rafael,Talca,-35.29979449,-71.51124358,Talca,,0,Talca,,0
+4426154,Talca,Interior Villa Don Sebastian,Talca,-35.29964125,-71.51198387,Talca,,0,Talca,,0
+4426155,Talca,Villa Don Sebastian - Paradero 2,Talca,-35.30046871,-71.5127027,Talca,,0,Talca,,0
+4426156,Talca,Villa Don Sebastian - Paradero 3,Talca,-35.30121298,-71.5135181,Talca,,0,Talca,,0
+4426157,Talca,Villa Don Sebastian - Paradero 4,Talca,-35.30193098,-71.5143013,Talca,,0,Talca,,0
+4426158,Talca,Villa Don Sebastian - Av Cementerio,Talca,-35.30225933,-71.51395261,Talca,,0,Talca,,0
+4426159,Talca,Av Cementerio - San Rafael,Talca,-35.30307363,-71.51474655,Talca,,0,Talca,,0
+4426160,Talca,Av Cementerio - Alcalde Libia Ronca,Talca,-35.30389668,-71.5155834,Talca,,0,Talca,,0
+4426161,Talca,Av Oriente - Plaza San Rafael,Talca,-35.30489264,-71.51666164,Talca,,0,Talca,,0
+4426162,Talca,Avenida Oriente - 2231,Talca,-35.30603963,-71.51791692,Talca,,0,Talca,,0
+4426163,Talca,Av San Rafael - Los Sauces,Talca,-35.30776445,-71.51417524,Talca,,0,Talca,,0
+4426164,Talca,Av San Rafael - Calle 2,Talca,-35.30921783,-71.51181757,Talca,,0,Talca,,0
+4426165,Talca,Alcalde Livia Ronca - Av Cementerio,Talca,-35.3038923,-71.51587844,Talca,,0,Talca,,0
+4426166,Talca,Escuela San Rafael,Talca,-35.30761342,-71.51736975,Talca,,0,Talca,,0
+4426167,Talca,Av San Rafael - Los Sauces,Talca,-35.30783231,-71.51440859,Talca,,0,Talca,,0
+4426168,Talca,Av San Rafael - Escuela San Rafael,Talca,-35.3074602,-71.51730001,Talca,,0,Talca,,0
+4426169,Talca,Av Oriente - Plaza San Rafael,Talca,-35.30497363,-71.51648998,Talca,,0,Talca,,0
+4426170,Talca,Av Cementerio -  Semaforos,Talca,-35.30395797,-71.51539028,Talca,,0,Talca,,0
+4426171,Talca,San Rafael Poniente - Pasarela,Talca,-35.30569616,-71.52155308,Talca,,0,Talca,,0
+4426172,Talca,Ruta 5 Sur - San Rafael Sur,Talca,-35.30811602,-71.52450293,Talca,,0,Talca,,0
+4426173,Talca,Ruta 5 Sur - Frente Terpel,Talca,-35.31213523,-71.5296701,Talca,,0,Talca,,0
+4426174,Talca,Ruta 5 Sur - Fente Pronto Copec San Rafael,Talca,-35.32040889,-71.5400632,Talca,,0,Talca,,0
+4426175,Talca,Ruta 5 Sur - Alto pangue,Talca,-35.34938332,-71.57532692,Talca,,0,Talca,,0
+4426176,Talca,20 Oriente - 2 Norte,Talca,-35.4287146,-71.63624525,Talca,,0,Talca,,0
+4426177,Talca,20 Oriente - Av San Miguel,Talca,-35.43114491,-71.63712502,Talca,,0,Talca,,0
+4426196,Talca,2 Norte - 21 Oriente,Talca,-35.42904681,-71.63536549,Talca,,0,Talca,,0
+4426204,Talca,7 Oriente - 8 Norte,Talca,-35.41722646,-71.6562438,Talca,,0,Talca,,0
+4426205,Talca,7 Oriente - 6 Norte,Talca,-35.41970958,-71.65650129,Talca,,0,Talca,,0
+4426206,Talca,7 Oriente - Alameda,Talca,-35.42259479,-71.65663004,Talca,,0,Talca,,0
+4426207,Talca,Alameda- 11 Oriente,Talca,-35.42338165,-71.65034294,Talca,,0,Talca,,0
+5225799,Talca,Doce Ote / Catorce Sur,Talca,-35.44714336,-71.65115565,Talca,,0,Talca,,0
+5225818,Talca,Doce Nte / Nueve Oriente,Talca,-35.41280431,-71.65333897,Talca,,0,Talca,,0
+5225819,Talca,Doce Nte / Siete Ote,Talca,-35.4123529,-71.65494964,Talca,,0,Talca,,0
+5225820,Talca,Avenida Isidoro del Solar / Tres Nte,Talca,-35.42283085,-71.66971385,Talca,,0,Talca,,0
+5225821,Talca,Doce Ote / Tres 1/2 Sur,Talca,-35.43183116,-71.64835811,Talca,,0,Talca,,0
+5225822,Talca,Dieciocho Ote / Ocho Sur,Talca,-35.43704117,-71.64438307,Talca,,0,Talca,,0
+5225844,Talca,Calle 9 Nte / 6 Ote,Talca,-35.41574005,-71.65723085,Talca,,0,Talca,,0
+5225845,Talca,Ocho Nte / 1 Ote,Talca,-35.41668655,-71.6636306,Talca,,0,Talca,,0
+5225846,Talca,1 Ote / Cinco Nte,Talca,-35.42013144,-71.66466862,Talca,,0,Talca,,0
+5225847,Talca,32 Ote / Once Sur,Talca,-35.44683745,-71.63169086,Talca,,0,Talca,,0
+5225848,Talca,32 Ote / Nueve Sur,Talca,-35.44402084,-71.62995815,Talca,,0,Talca,,0
+5225877,Talca,Ocho Sur / Treinta y Cuatro y Medio Ote B,Talca,-35.44566406,-71.62310243,Talca,,0,Talca,,0
+5225878,Talca,32 Ote / Ocho 1/2 Sur,Talca,-35.44317081,-71.62929028,Talca,,0,Talca,,0
+5225879,Talca,Ocho Sur / Veintiséis y Medio Ote,Talca,-35.43907133,-71.636087,Talca,,0,Talca,,0
+5225880,Talca,Dos Ote / Cuatro Nte,Talca,-35.42208333,-71.66345358,Talca,,0,Talca,,0
+5225881,Talca,Dos Ote / Cinco Nte,Talca,-35.42071286,-71.6633597,Talca,,0,Talca,,0
+5225882,Talca,Av. 5 Pte / Veintiocho Sur,Talca,-35.44862919,-71.6820091,Talca,,0,Talca,,0
+5225883,Talca,Ignacio Carrera Pinto / Tres Pte,Talca,-35.44307467,-71.67257309,Talca,,0,Talca,,0
+5225884,Talca,Manuel Rodríguez / Pje. Ilusión,Talca,-35.40938753,-71.66257113,Talca,,0,Talca,,0
+5225885,Talca,Doce Nte / Lircay,Talca,-35.41292454,-71.65338725,Talca,,0,Talca,,0
+5225904,Talca,30 Oriente / Nueve Sur,Talca,-35.44185751,-71.63372397,Talca,,0,Talca,,0
+5225905,Talca,Ocho Sur / Catorce Ote,Talca,-35.43665218,-71.6456008,Talca,,0,Talca,,0
+5225906,Talca,Catorce Oriente / Siete Sur,Talca,-35.43613644,-71.64601922,Talca,,0,Talca,,0
+5226845,Talca,Dos Norte / Tres Pte,Talca,-35.42438707,-71.66887701,Talca,,0,Talca,,0
+5226846,Talca,Dos Nte / Cinco Pte,Talca,-35.42414883,-71.67170942,Talca,,0,Talca,,0
+5226922,Talca,Sgto Candelaria / Pje América,Talca,-35.44130903,-71.65945709,Talca,,0,Talca,,0
+5226923,Talca,Av. Isidoro del Solar / Cuatro Nte,Talca,-35.42223633,-71.66992307,Talca,,0,Talca,,0
+5226930,Talca,21 Poniente / Veintisiete Sur,Talca,-35.4422727,-71.69840276,Talca,,0,Talca,,0
+5226932,Talca,Ruta 118,Talca,-35.40073452,-71.63212001,Talca,,0,Talca,,0
+5226933,Talca,Carlos Schorr / Colín,Talca,-35.42926536,-71.67481542,Talca,,0,Talca,,0
+5235142,Talca,Diecinueve 1/2 Pte,Talca,-35.44560943,-71.69855833,Talca,,0,Talca,,0
+5235194,Talca,29 Sur / Trece Pte,Talca,-35.44710184,-71.69231415,Talca,,0,Talca,,0
+5235195,Talca,29 Sur / Once 1/2 Pte,Talca,-35.44754322,-71.69113934,Talca,,0,Talca,,0
+5235196,Talca,Colin / Siete 1/2 Pte,Talca,-35.44709747,-71.68886214,Talca,,0,Talca,,0
+5235220,Talca,Circunvalación / 16 Ote,Talca,-35.41685486,-71.6374737,Talca,,0,Talca,,0
+5235243,Talca,14 Ote / Dieciséis Nte,Talca,-35.41538812,-71.64017737,Talca,,0,Talca,,0
+5235244,Talca,14 Ote / Calle 9 Nte,Talca,-35.41863634,-71.64378762,Talca,,0,Talca,,0
+5235253,Talca,28 Sur / Av. 10 Ote,Talca,-35.45940937,-71.66055679,Talca,,0,Talca,,0
+5235254,Talca,9 Ote / 27 Sur,Talca,-35.45741469,-71.66329265,Talca,,0,Talca,,0
+5235255,Talca,9 Ote / 26 Sur,Talca,-35.45617809,-71.662606,Talca,,0,Talca,,0
+5235256,Talca,Catorce Sur / Carab Raúl Lucero,Talca,-35.44567935,-71.65400952,Talca,,0,Talca,,0
+5235257,Talca,Diez Ote / Vice Sgto Pro Anselmo,Talca,-35.44302878,-71.65317267,Talca,,0,Talca,,0
+5235258,Talca,Diez Ote / Mariano Latorre,Talca,-35.44086105,-71.65245652,Talca,,0,Talca,,0
+5235259,Talca,Veinte Sur / Colin,Talca,-35.44031911,-71.6830042,Talca,,0,Talca,,0
+5235261,Talca,14 Pte / 28 Sur,Talca,-35.44598527,-71.69268698,Talca,,0,Talca,,0
+5235262,Talca,14 Pte / Veintisiete Sur,Talca,-35.44458679,-71.69191182,Talca,,0,Talca,,0
+5235283,Talca,K-620,Talca,-35.45465526,-71.69160873,Talca,,0,Talca,,0
+5235284,Talca,K - 620,Talca,-35.45871244,-71.69334948,Talca,,0,Talca,,0
+5235326,Talca,Catorce Sur / Pje. América,Talca,-35.44306592,-71.65993989,Talca,,0,Talca,,0
+5235327,Talca,Circunvalación Norte / 21 1/2 Nte,Talca,-35.39993433,-71.64513946,Talca,,0,Talca,,0
+5235328,Talca,Cinco 1/2 Ote D / Veintiuno 1/2 Nte B,Talca,-35.40127236,-71.64678901,Talca,,0,Talca,,0
+5235336,Talca,Diez Nte / Camino Agua Potable,Talca,-35.4244439,-71.62690848,Talca,,0,Talca,,0
+5235337,Talca,23 Ote  / Villarrica,Talca,-35.42873865,-71.63258672,Talca,,0,Talca,,0
+5235475,Talca,Madrid / San Juan,Talca,-35.43491481,-71.67246044,Talca,,0,Talca,,0
+5235486,Talca,K-55 / 9 1/2 Nte C,Talca,-35.42989917,-71.60655856,Talca,,0,Talca,,0
+5235487,Talca,K-55 / Cinco Nte,Talca,-35.43302661,-71.60844415,Talca,,0,Talca,,0
+5235488,Talca,Av. San Miguel / Del Parque,Talca,-35.43649921,-71.6224131,Talca,,0,Talca,,0
+5235491,Talca,K-610,Talca,-35.45572802,-71.69789046,Talca,,0,Talca,,0
+5235492,Talca,Catorce Sur / Cuatro 1/2 Pte C,Talca,-35.43792186,-71.6761592,Talca,,0,Talca,,0
+5235493,Talca,Catorce Sur / Circunvalación Sur,Talca,-35.44020767,-71.6704461,Talca,,0,Talca,,0
+5235494,Talca,Circunvalación Sur / Piduco,Talca,-35.43579989,-71.66966826,Talca,,0,Talca,,0
+5235501,Talca,Av. San Miguel / Uno Sur,Talca,-35.43937508,-71.61388099,Talca,,0,Talca,,0
+5235502,Talca,K-55 / 9 Nte,Talca,-35.43104438,-71.6071111,Talca,,0,Talca,,0
+5235503,Talca,K-55 / Calle 9 1/2 Nte C,Talca,-35.429532,-71.60616159,Talca,,0,Talca,,0
+5235513,Talca,Cruce Panamericana Sur,Talca,-35.36362846,-71.5860343,Talca,,0,Talca,,0
+5235514,Talca,Panamericana Sur km 278,Talca,-35.38322455,-71.60478294,Talca,,0,Talca,,0
+5235515,Talca,Panguilemo I,Talca,-35.36515301,-71.59155428,Talca,,0,Talca,,0
+5235516,Talca,Panguilemo II,Talca,-35.3640878,-71.59022391,Talca,,0,Talca,,0
+5240952,Talca,K-610 / Parada 2,Talca,-35.46144988,-71.72530264,Talca,,0,Talca,,0
+5241338,Talca,I - Nueve Oriente / Veintidós Sur O,Talca,-35.450434,-71.66045219,Talca,,0,Talca,,0
+5241339,Talca,I - Nueve Oriente / Dieciocho Sur,Talca,-35.44938739,-71.66064262,Talca,,0,Talca,,0
+5241340,Talca,I - Nueve Oriente / Catorce Sur,Talca,-35.44436609,-71.65757149,Talca,,0,Talca,,0
+5241341,Talca,I - Catorce Sur / Pje Siete,Talca,-35.44175044,-71.65832251,Talca,,0,Talca,,0
+5241342,Talca,I - 1 Pte / Uno Sur,Talca,-35.4277005,-71.66672587,Talca,,0,Talca,,0
+5241343,Talca,I - Cuatro Oriente / Once Nte,Talca,-35.41332895,-71.65988088,Talca,,0,Talca,,0
+5241344,Talca,I - Cuatro Oriente / Pje Doce 1/2 Nte,Talca,-35.40893501,-71.65928811,Talca,,0,Talca,,0
+5241345,Talca,I - 4 Ote / Trece Nte,Talca,-35.40725825,-71.65710747,Talca,,0,Talca,,0
+5241346,Talca,I - Trece Nte / Cinco Ote,Talca,-35.40811521,-71.65596485,Talca,,0,Talca,,0
+5241347,Talca,I - Cinco Ote / Pje Germán Riesco,Talca,-35.40614331,-71.65419996,Talca,,0,Talca,,0
+5241348,Talca,I - Cinco Ote / Catorce Nte,Talca,-35.40522074,-71.65360987,Talca,,0,Talca,,0
+5241349,Talca,I - Cinco Ote / Dieciocho 1/2 Norte,Talca,-35.40300827,-71.65297151,Talca,,0,Talca,,0
+5241350,Talca,I - Cinco Oriente,Talca,-35.39856566,-71.65183961,Talca,,0,Talca,,0
+5241351,Talca,I - Carretera Acceso Norte / 5 Ote,Talca,-35.39671596,-71.65116906,Talca,,0,Talca,,0
+5241352,Talca,I - Carretera Acceso Norte / Cinco 1/2 Oriente B,Talca,-35.39758616,-71.64729059,Talca,,0,Talca,,0
+5241357,Talca,I - Carretera Acceso Norte,Talca,-35.39788351,-71.64605945,Talca,,0,Talca,,0
+5241358,Talca,I - Don Gonzalo,Talca,-35.39633334,-71.64533257,Talca,,0,Talca,,0
+5241359,Talca,I - Don Gonzalo / Calle Central,Talca,-35.39605566,-71.64528966,Talca,,0,Talca,,0
+5241360,Talca,I - Circunvalación Nte / 5 1/2 Oriente G,Talca,-35.39502365,-71.64980114,Talca,,0,Talca,,0
+5241361,Talca,I - Cruce Av. Lircay-Av. Circunvalación / 21 Nte,Talca,-35.39523355,-71.65118515,Talca,,0,Talca,,0
+5241362,Talca,I - Cinco Ote / Diecinueve Nte B,Talca,-35.40176646,-71.65266305,Talca,,0,Talca,,0
+5241363,Talca,I - Cinco Ote / Manuel Montt,Talca,-35.40643625,-71.65456474,Talca,,0,Talca,,0
+5241364,Talca,I - Trece Nte / 4 Ote,Talca,-35.40730197,-71.65688753,Talca,,0,Talca,,0
+5241365,Talca,I - Tres Ote / 9 Nte,Talca,-35.41525915,-71.66149288,Talca,,0,Talca,,0
+5241366,Talca,I - Tres Ote / Siete Nte,Talca,-35.41774451,-71.66175842,Talca,,0,Talca,,0
+5241367,Talca,I - Nueve Ote / Diez Sur,Talca,-35.43817317,-71.6546452,Talca,,0,Talca,,0
+5241368,Talca,I - Once 1/2 Sur / Pje Sto Domingo,Talca,-35.43973565,-71.6559273,Talca,,0,Talca,,0
+5241369,Talca,I - Cost / Siete Ote,Talca,-35.43846163,-71.65815353,Talca,,0,Talca,,0
+5241370,Talca,I - Cinco 1/2 Ote / El Arroyo,Talca,-35.44163681,-71.66157871,Talca,,0,Talca,,0
+5241371,Talca,I - Trece Sur / Pje América,Talca,-35.44127188,-71.65974677,Talca,,0,Talca,,0
+5241372,Talca,I - Catorce Sur / Pje Veintitrés,Talca,-35.44173296,-71.65852904,Talca,,0,Talca,,0
+5241373,Talca,I - Catorce Sur / Inés de Suarez,Talca,-35.44243441,-71.65695727,Talca,,0,Talca,,0
+5241374,Talca,I - Inés de Suárez / Amira,Talca,-35.44297852,-71.65669978,Talca,,0,Talca,,0
+5241375,Talca,I - Nueve Oriente / Veintidós Sur O,Talca,-35.45047114,-71.66051656,Talca,,0,Talca,,0
+5241376,Talca,I - 9 Oriente / 24 Sur,Talca,-35.45312803,-71.66096985,Talca,,0,Talca,,0
+5241377,Talca,I - 24 Sur / 9 Ote A,Talca,-35.45356719,-71.66039586,Talca,,0,Talca,,0
+5241378,Talca,I - 24 Sur / 9 Ote D,Talca,-35.45411559,-71.65897965,Talca,,0,Talca,,0
+5241379,Talca,I - 24 Sur / 10 Ote,Talca,-35.45442148,-71.65814281,Talca,,0,Talca,,0
+5241380,Talca,I - Ruta 118,Talca,-35.39863125,-71.62619233,Talca,,0,Talca,,0
+5241381,Talca,I - Once Ote / Uno Sur,Talca,-35.42798025,-71.65034831,Talca,,0,Talca,,0
+5241382,Talca,I - Veintisiete Sur / 21 Pte,Talca,-35.44218529,-71.69813186,Talca,,0,Talca,,0
+5241383,Talca,I - Veintisiete Sur / Pje Diecinueve Pte,Talca,-35.44271848,-71.69684708,Talca,,0,Talca,,0
+5241384,Talca,I - Veintisiete Sur / Dieciocho Pte,Talca,-35.4429807,-71.6955328,Talca,,0,Talca,,0
+5241385,Talca,I - Panamericana Sur / Parada I,Talca,-35.36468712,-71.58675849,Talca,,0,Talca,,0
+5241386,Talca,I - Panamericana Sur / Panguilemo,Talca,-35.36536955,-71.58740759,Talca,,0,Talca,,0
+5241387,Talca,I - Panamericana Sur / Parada II,Talca,-35.37618931,-71.5986219,Talca,,0,Talca,,0
+5241388,Talca,I - Panamericana Sur / Parada III,Talca,-35.39159955,-71.61265254,Talca,,0,Talca,,0
+5241389,Talca,I - Panamericana Sur / Parada IV,Talca,-35.39311264,-71.61411703,Talca,,0,Talca,,0
+5241390,Talca,I - Cancha Rayada / Diez Ote,Talca,-35.42094455,-71.65089816,Talca,,0,Talca,,0
+5241391,Talca,I - Veintisiete Sur / Trece Pte,Talca,-35.44463268,-71.69115812,Talca,,0,Talca,,0
+5241392,Talca,I - Cancha Rayada / Ocho Nte,Talca,-35.41758931,-71.65367961,Talca,,0,Talca,,0
+5241394,Talca,I - Veintinueve Sur / Diecisiete Pte,Talca,-35.44575364,-71.6958198,Talca,,0,Talca,,0
+5241395,Talca,I - Veintinueve Sur / Dieciséis Pte,Talca,-35.44598308,-71.69510365,Talca,,0,Talca,,0
+5241396,Talca,I - Catorce Oriente / Cinco Nte,Talca,-35.42279806,-71.64549619,Talca,,0,Talca,,0
+5241397,Talca,I - Catorce Oriente / Seis Nte,Talca,-35.42152159,-71.64499462,Talca,,0,Talca,,0
+5241398,Talca,I - Catorce Oriente / 9 Nte,Talca,-35.41847896,-71.64362401,Talca,,0,Talca,,0
+5241399,Talca,I - Catorce Oriente / Doce Nte A,Talca,-35.41693574,-71.64199054,Talca,,0,Talca,,0
+5241400,Talca,I - Av. 21 Nte / 23 Ote,Talca,-35.41101396,-71.62414312,Talca,,0,Talca,,0
+5241401,Talca,I - Bicentenario / Parada I,Talca,-35.41310379,-71.61759317,Talca,,0,Talca,,0
+5241402,Talca,I - Bicentenario / Parada II,Talca,-35.41282399,-71.6168046,Talca,,0,Talca,,0
+5241403,Talca,I - Bicentenario / Parada III,Talca,-35.41252232,-71.61699235,Talca,,0,Talca,,0
+5241404,Talca,I - Bicentenario / Parada IV,Talca,-35.41257478,-71.61837637,Talca,,0,Talca,,0
+5241405,Talca,I - Circunvalación / Veinte Ote,Talca,-35.41916749,-71.63407266,Talca,,0,Talca,,0
+5241406,Talca,I - Dos Norte / Once Ote,Talca,-35.42622302,-71.64952219,Talca,,0,Talca,,0
+5241407,Talca,I - Carlos Schorr / El Arenal,Talca,-35.4288217,-71.67188644,Talca,,0,Talca,,0
+5241408,Talca,I - Unihue / Yerbas Buenas,Talca,-35.45634414,-71.68514729,Talca,,0,Talca,,0
+5241409,Talca,I - Unihue / Av. Duao,Talca,-35.45411996,-71.68380082,Talca,,0,Talca,,0
+5241410,Talca,I - Once Ote / Diez Sur,Talca,-35.43851189,-71.65148556,Talca,,0,Talca,,0
+5241411,Talca,I - Diez Ote / Stgo II Beroiza,Talca,-35.44080424,-71.65255845,Talca,,0,Talca,,0
+5241412,Talca,I - Diez Oriente / Guacolda,Talca,-35.4427163,-71.65318877,Talca,,0,Talca,,0
+5241413,Talca,I - Diez Oriente / Amira,Talca,-35.44428743,-71.65368229,Talca,,0,Talca,,0
+5241414,Talca,I - Diez Ote / Pje 34,Talca,-35.44498012,-71.65419728,Talca,,0,Talca,,0
+5241415,Talca,I - Once Ote / Rebeca Matte,Talca,-35.4470494,-71.65184498,Talca,,0,Talca,,0
+5241416,Talca,I - Once Oriente / Pje Stgo Aldea,Talca,-35.44782291,-71.65201128,Talca,,0,Talca,,0
+5241417,Talca,I - Dieciséis Sur / Pje Diez 1/2 Ote,Talca,-35.44818781,-71.65352941,Talca,,0,Talca,,0
+5241418,Talca,I - Nueve Oriente / Diecisiete Sur,Talca,-35.4479409,-71.65999353,Talca,,0,Talca,,0
+5241419,Talca,I - 9 Ote / 25 Sur,Talca,-35.45441274,-71.66172624,Talca,,0,Talca,,0
+5241420,Talca,I - 9 Ote / 27 Sur,Talca,-35.45728579,-71.66341603,Talca,,0,Talca,,0
+5241421,Talca,I - 9 Ote / 28 Sur,Talca,-35.45806138,-71.66385859,Talca,,0,Talca,,0
+5241422,Talca,I - 28 Sur / 10 1/2 Ote,Talca,-35.45998395,-71.65928543,Talca,,0,Talca,,0
+5241423,Talca,I - 10 1/2 Ote / 29 Sur,Talca,-35.46108941,-71.65984601,Talca,,0,Talca,,0
+5241424,Talca,I - 29 Sur / 9 1/2 Ote,Talca,-35.46001454,-71.66287422,Talca,,0,Talca,,0
+5241425,Talca,I - 29 Sur,Talca,-35.45872118,-71.6661787,Talca,,0,Talca,,0
+5244247,Talca,I - 13 Ote / Parada I,Talca,-35.4089831,-71.63627744,Talca,,0,Talca,,0
+5244248,Talca,I - 13 Ote / Parada II,Talca,-35.409816,-71.63794041,Talca,,0,Talca,,0
+5244249,Talca,I - 13 Ote / Parada III,Talca,-35.41129596,-71.64056629,Talca,,0,Talca,,0
+5244250,Talca,I - Once Ote / Parada I,Talca,-35.41028382,-71.64169014,Talca,,0,Talca,,0
+5244251,Talca,I - Diez Nte / Once Ote,Talca,-35.41567447,-71.64888382,Talca,,0,Talca,,0
+5244252,Talca,I - Cinco Ote / Diez Nte,Talca,-35.41445691,-71.65880799,Talca,,0,Talca,,0
+5244253,Talca,I - Cinco Ote / Seis Nte,Talca,-35.41946039,-71.65923446,Talca,,0,Talca,,0
+5244254,Talca,I - Cinco Sur / Dieciocho Ote,Talca,-35.43413462,-71.64230168,Talca,,0,Talca,,0
+5244255,Talca,I - Catorce Ote / Once Sur,Talca,-35.43944938,-71.64689362,Talca,,0,Talca,,0
+5244256,Talca,I - Catorce Sur / Pje Ángel Cruchaga,Talca,-35.44711058,-71.65045559,Talca,,0,Talca,,0
+5244262,Talca,I - Ocho Ote / Siete Nte,Talca,-35.41873251,-71.65487051,Talca,,0,Talca,,0
+5244263,Talca,I - Trece 1/2 Ote B / Trece 1/2 Ote A,Talca,-35.41524822,-71.64397806,Talca,,0,Talca,,0
+5244264,Talca,I - Doce Nte / Trece Nte,Talca,-35.41341202,-71.64253503,Talca,,0,Talca,,0
+5244265,Talca,I - Calle 13 Ote / Parada I,Talca,-35.41146866,-71.64062262,Talca,,0,Talca,,0
+5244266,Talca,I - Catorce Ote / Parada II,Talca,-35.41249171,-71.63975358,Talca,,0,Talca,,0
+5244267,Talca,I - Trece 1/2 Ote / Parada II,Talca,-35.41079098,-71.63654029,Talca,,0,Talca,,0
+5244270,Talca,I - 1 Ote / Siete Nte,Talca,-35.41772921,-71.66444063,Talca,,0,Talca,,0
+5244271,Talca,I - Dieciocho Ote / Tres Sur,Talca,-35.4313875,-71.64017737,Talca,,0,Talca,,0
+5244272,Talca,I - Ocho Sur / Los Liros,Talca,-35.44024263,-71.63420677,Talca,,0,Talca,,0
+5244273,Talca,I - Ocho Sur / 31 Ote,Talca,-35.44177448,-71.63115174,Talca,,0,Talca,,0
+5244274,Talca,I - 31 Ote / Nueve 1/2 Sur,Talca,-35.44345707,-71.6322273,Talca,,0,Talca,,0
+5244275,Talca,I - Ocho Sur / Pje Treinta y Cuatro Ote A,Talca,-35.44516148,-71.62435234,Talca,,0,Talca,,0
+5244280,Talca,I - Dos Ote / Ocho Nte,Talca,-35.41692262,-71.66293591,Talca,,0,Talca,,0
+5244285,Talca,I - Diez Sur / 30 Ote,Talca,-35.4434964,-71.63463861,Talca,,0,Talca,,0
+5244286,Talca,I - Catorce Ote / Cuatro Sur,Talca,-35.43293263,-71.64573759,Talca,,0,Talca,,0
+5244287,Talca,I - 1 Ote / Doce Sur,Talca,-35.44035845,-71.66668564,Talca,,0,Talca,,0
+5244288,Talca,I - 1 Ote / Dieciséis Sur,Talca,-35.44301567,-71.66692168,Talca,,0,Talca,,0
+5244289,Talca,I - Dieciocho Sur / Andrés Bello,Talca,-35.44746456,-71.66525602,Talca,,0,Talca,,0
+5244290,Talca,I - Andrés Bello / Veintiuno Sur,Talca,-35.44893728,-71.6661787,Talca,,0,Talca,,0
+5244291,Talca,I - 5 Ote / 25 Sur,Talca,-35.45088192,-71.66698337,Talca,,0,Talca,,0
+5244292,Talca,I - 25 Sur / 1 Ote,Talca,-35.45036626,-71.67104959,Talca,,0,Talca,,0
+5244293,Talca,I - 25 Sur / Tres Pte,Talca,-35.44786661,-71.67530358,Talca,,0,Talca,,0
+5244294,Talca,I - Tres Pte / 25 Sur B,Talca,-35.44874936,-71.67608142,Talca,,0,Talca,,0
+5244298,Talca,I - Arturo Prat / Av. 5 Pte,Talca,-35.4497348,-71.68192863,Talca,,0,Talca,,0
+5244299,Talca,I - Cuatro 1/2 Pte C / Veintiséis Sur,Talca,-35.44697948,-71.6815263,Talca,,0,Talca,,0
+5244300,Talca,I - Veintiséis Sur / Cuatro 1/2 Pte B,Talca,-35.44787972,-71.67984188,Talca,,0,Talca,,0
+5244314,Talca,I - 4 Pte / 25 Sur B,Talca,-35.44944857,-71.676355,Talca,,0,Talca,,0
+5244315,Talca,I - 25 Sur / Av. 1 1/2 Pte,Talca,-35.44843472,-71.67418778,Talca,,0,Talca,,0
+5244316,Talca,I - 25 Sur / 3 1/2 Ote A,Talca,-35.4508841,-71.66976213,Talca,,0,Talca,,0
+5244317,Talca,I - Andrés Bello / Veintidós Sur O,Talca,-35.44916452,-71.66618943,Talca,,0,Talca,,0
+5244318,Talca,I - Dieciocho Sur / Diego Portales,Talca,-35.44720672,-71.66581392,Talca,,0,Talca,,0
+5244319,Talca,I - Cinco Sur / Catorce Ote,Talca,-35.43378495,-71.64604604,Talca,,0,Talca,,0
+5244343,Talca,I - Diecinueve Ote / Ocho Sur,Talca,-35.43733838,-71.64149702,Talca,,0,Talca,,0
+5244344,Talca,I - Diez Sur / 31 Ote,Talca,-35.44429617,-71.63294613,Talca,,0,Talca,,0
+5244345,Talca,I - Diez Sur / Treinta y Tres Ote,Talca,-35.44612293,-71.62900865,Talca,,0,Talca,,0
+5244346,Talca,I - Diez Sur A / Pje Treinta y Tres Ote B,Talca,-35.44639825,-71.62777483,Talca,,0,Talca,,0
+5244347,Talca,I - Diez Sur A / Pje Treinta y Tres Ote A,Talca,-35.44681778,-71.62697554,Talca,,0,Talca,,0
+5244348,Talca,I - Diez Sur A / Pjr Treinta y Cinco Ote,Talca,-35.44753448,-71.62544399,Talca,,0,Talca,,0
+5244350,Talca,I - 21 Pte / Veinticinco Sur,Talca,-35.44001755,-71.69636428,Talca,,0,Talca,,0
+5244351,Talca,I - 21 Pte / Veintiseis Sur C,Talca,-35.43900795,-71.69548452,Talca,,0,Talca,,0
+5244352,Talca,I - Dieciocho 1/2 Pte / Veintidós Sur,Talca,-35.43744327,-71.69422388,Talca,,0,Talca,,0
+5244353,Talca,I - Dieciocho Pte B / Veintidós Sur,Talca,-35.43639431,-71.69364989,Talca,,0,Talca,,0
+5244354,Talca,I - Veintidos Sur / Dieciocho Pte,Talca,-35.43677456,-71.69237852,Talca,,0,Talca,,0
+5244369,Talca,I - Quince Ote / Siete Sur,Talca,-35.43569936,-71.64494097,Talca,,0,Talca,,0
+5244370,Talca,I - Treinta y Dos Ote / Pje Seis y Medio Sur C,Talca,-35.44128062,-71.62796259,Talca,,0,Talca,,0
+5244371,Talca,I - Treinta y Dos Ote / Pje Seis y Medio Sur,Talca,-35.44052016,-71.6273886,Talca,,0,Talca,,0
+5244372,Talca,I - Treinta y Dos Ote / Pje Cinco Sur B,Talca,-35.43954335,-71.62676901,Talca,,0,Talca,,0
+5244380,Talca,I - Treinta y Dos Ote / Pje Cinco y Medio Sur,Talca,-35.43967009,-71.62695408,Talca,,0,Talca,,0
+5244381,Talca,I - Treinta y Dos Ote / Ocho Sur,Talca,-35.44247811,-71.628896,Talca,,0,Talca,,0
+5244382,Talca,I - Ocho Sur / Treinta 1/2 Ote,Talca,-35.44150351,-71.63131535,Talca,,0,Talca,,0
+5244400,Talca,I - Diecinueve Sur / Trece Pte,Talca,-35.43752195,-71.68570518,Talca,,0,Talca,,0
+5244401,Talca,I - Diecinueve Sur / Dieciséis Pte,Talca,-35.4363506,-71.68755054,Talca,,0,Talca,,0
+5244402,Talca,I - Diecisiete Poniente / Veintiuno 1/2 Sur,Talca,-35.43735586,-71.69063777,Talca,,0,Talca,,0
+5244404,Talca,I - Veintiuno 1/2 Sur / Dieciocho Pte,Talca,-35.43680079,-71.69214785,Talca,,0,Talca,,0
+5244405,Talca,I - Dieciocho 1/2 Pte / Veintiséis Sur,Talca,-35.43753287,-71.69430971,Talca,,0,Talca,,0
+5244406,Talca,I - 21 Pte / Veintiséis Sur C,Talca,-35.43872824,-71.69529676,Talca,,0,Talca,,0
+5244407,Talca,I - 21 Pte / 25 Sur,Talca,-35.43974658,-71.69626236,Talca,,0,Talca,,0
+5244408,Talca,I - 21 Pte / Veintiséis 1/2 Sur,Talca,-35.44071246,-71.69707239,Talca,,0,Talca,,0
+5244412,Talca,I - Siete Ote / Trece Nte,Talca,-35.40996902,-71.65248871,Talca,,0,Talca,,0
+5244413,Talca,I - Siete Oriente / Manuel Montt,Talca,-35.40827043,-71.65116638,Talca,,0,Talca,,0
+5244415,Talca,I - Catorce Nte / 6 Ote,Talca,-35.40526883,-71.65297151,Talca,,0,Talca,,0
+5244417,Talca,I - Cinco Ote / Diecinueve Nte C,Talca,-35.40225182,-71.65276766,Talca,,0,Talca,,0
+5244420,Talca,I - Circ. Nte / Parada I,Talca,-35.39815899,-71.64730132,Talca,,0,Talca,,0
+5244422,Talca,I - Carretera Acceso Norte / Parada I,Talca,-35.39706579,-71.6496402,Talca,,0,Talca,,0
+5244423,Talca,I - Cruce Av. Lircay-Av.Circunvalación Sur / Parada II,Talca,-35.3953385,-71.65104032,Talca,,0,Talca,,0
+5244425,Talca,I - Pje 24 Nte / Parada I,Talca,-35.39435021,-71.65400147,Talca,,0,Talca,,0
+5244426,Talca,I - Pje 24 Nte / Parada II,Talca,-35.39329631,-71.65266573,Talca,,0,Talca,,0
+5244429,Talca,I - Carretera Acceso Nte / Parada I,Talca,-35.3973063,-71.64895892,Talca,,0,Talca,,0
+5244430,Talca,I - Catorce Nte / Joaquín Prieto,Talca,-35.40575854,-71.65260136,Talca,,0,Talca,,0
+5244431,Talca,I - Siete Ote / Ramón Freire,Talca,-35.40831634,-71.65128708,Talca,,0,Talca,,0
+5244432,Talca,I - Siete Ote / Domingo Sta María,Talca,-35.4089984,-71.65180206,Talca,,0,Talca,,0
+5244434,Talca,I - Cinco Ote / Pje Argentina,Talca,-35.43540215,-71.66075528,Talca,,0,Talca,,0
+5244435,Talca,I - Cost / 6 Ote,Talca,-35.43725097,-71.66001499,Talca,,0,Talca,,0
+5244436,Talca,I - Cinco Ote / Catorce Sur,Talca,-35.44145544,-71.66295469,Talca,,0,Talca,,0
+5244437,Talca,I - Catorce Sur / 6 Ote,Talca,-35.44213285,-71.6621232,Talca,,0,Talca,,0
+5244438,Talca,I - Catorce Sur / Nueve Ote,Talca,-35.44406454,-71.65781021,Talca,,0,Talca,,0
+5244444,Talca,I - Veinticinco Ote / Cuatro Nte,Talca,-35.42840862,-71.62894964,Talca,,0,Talca,,0
+5244445,Talca,I - Sta Rosa / Jaime,Talca,-35.43211527,-71.67449892,Talca,,0,Talca,,0
+5244446,Talca,I - Madrid / Catorce Sur,Talca,-35.43882002,-71.67408586,Talca,,0,Talca,,0
+5244447,Talca,I - Cuatro Pte / Ignacio Carrera Pinto,Talca,-35.44177447,-71.67525798,Talca,,0,Talca,,0
+5244448,Talca,I - Diecinueve Sur / Cinco Pte,Talca,-35.44082172,-71.67755127,Talca,,0,Talca,,0
+5244449,Talca,I - Cinco Pte / Veinte Sur,Talca,-35.44210226,-71.67873144,Talca,,0,Talca,,0
+5244450,Talca,I - Cinco Pte / Veinticuatro 1/2 Sur,Talca,-35.44518552,-71.68017715,Talca,,0,Talca,,0
+5244451,Talca,I - Av. 5 Pte / 33 Sur,Talca,-35.45102394,-71.68232292,Talca,,0,Talca,,0
+5244452,Talca,I - Av. 5 Pte / Provincia de ,Talca,,Talca,-35.45568432,-71.68243289,Talca,,0,Talca,,0
+5244453,Talca,I - Av. 5 Pte / Curepto,Talca,-35.4559902,-71.68233633,Talca,,0,Talca,,0
+5244454,Talca,I - Av. 5 Pte / Av. Duao,Talca,-35.45444333,-71.68230414,Talca,,0,Talca,,0
+5244455,Talca,I - Veintiséis Sur C / Pje Cuatro Pte B,Talca,-35.4449386,-71.67842031,Talca,,0,Talca,,0
+5244457,Talca,I - Diag. Camino Al Agua Potable / Av. Circ Ote,Talca,-35.42434117,-71.62551373,Talca,,0,Talca,,0
+5244460,Talca,I - Camino Las Rastras / Tricahue,Talca,-35.43500441,-71.60971284,Talca,,0,Talca,,0
+5244461,Talca,I - Av. San Miguel,Talca,-35.43798086,-71.61788821,Talca,,0,Talca,,0
+5244462,Talca,I - El Arenal / Dos Pte,Talca,-35.43197977,-71.67013228,Talca,,0,Talca,,0
+5244463,Talca,I - El Arenal / Santander,Talca,-35.4334178,-71.6687429,Talca,,0,Talca,,0
+5244464,Talca,I - Barcelona / Lugo,Talca,-35.43421767,-71.66817427,Talca,,0,Talca,,0
+5244465,Talca,I - Barcelona / Piduco,Talca,-35.43526666,-71.66938126,Talca,,0,Talca,,0
+5244466,Talca,I - Circunvalación Sur / Pje Castilla,Talca,-35.43786723,-71.67052925,Talca,,0,Talca,,0
+5244467,Talca,I - Circunvalación Sur / Pje Alicante,Talca,-35.43930515,-71.67029053,Talca,,0,Talca,,0
+5244468,Talca,I - Circunvalación Sur / Catorce Sur,Talca,-35.44003503,-71.67010546,Talca,,0,Talca,,0
+5244469,Talca,I - Catorce Sur / Pje Sta Cruz,Talca,-35.43982088,-71.67152166,Talca,,0,Talca,,0
+5244470,Talca,I - Catorce Sur / Madrid,Talca,-35.4390757,-71.67395711,Talca,,0,Talca,,0
+5244471,Talca,I - Catorce Sur / Cuatro 1/2 Pte D,Talca,-35.43794153,-71.67590976,Talca,,0,Talca,,0
+5244472,Talca,I - Catorce Sur / Cinco Pte,Talca,-35.43730778,-71.67703092,Talca,,0,Talca,,0
+5244473,Talca,I - K-610 / Principal,Talca,-35.45665438,-71.70342654,Talca,,0,Talca,,0
+5244474,Talca,I - Principal / Obispo Manuel Larrain,Talca,-35.45831481,-71.70332193,Talca,,0,Talca,,0
+5244475,Talca,I - Principal / Calle Juan Pablo II,Talca,-35.45931106,-71.70317173,Talca,,0,Talca,,0
+5244476,Talca,I - Calle Juan Pablo II / Pasaje 25,Talca,-35.45919308,-71.70598805,Talca,,0,Talca,,0
+5244478,Talca,I - K-610 / Obispo Manuel Larrain,Talca,-35.45725738,-71.70880437,Talca,,0,Talca,,0
+5244480,Talca,I - El Arenal / Dos Pte,Talca,-35.43230322,-71.66989625,Talca,,0,Talca,,0
+5244481,Talca,I - El Arenal / Bernardo O´Higgins,Talca,-35.43040184,-71.67109251,Talca,,0,Talca,,0
+5244482,Talca,I - Av. San Miguel / Veinticinco y Medio Ote,Talca,-35.43318614,-71.63361669,Talca,,0,Talca,,0
+5244484,Talca,I - K-610 / Carlos González,Talca,-35.45702579,-71.70647621,Talca,,0,Talca,,0
+5244485,Talca,I - K-610 / Parada I,Talca,-35.45852018,-71.71634674,Talca,,0,Talca,,0
+5244486,Talca,I - K-610 / Parada II,Talca,-35.46485135,-71.73090041,Talca,,0,Talca,,0
+5244487,Talca,I - K-610 / Parada III,Talca,-35.46933399,-71.73778832,Talca,,0,Talca,,0
+5244488,Talca,I - K-614 / K-610,Talca,-35.47128032,-71.74652427,Talca,,0,Talca,,0
+5244489,Talca,I - K-614 / Parada IV,Talca,-35.47604001,-71.7468971,Talca,,0,Talca,,0
+5244490,Talca,I - K-614 / Parada V,Talca,-35.47922899,-71.74727261,Talca,,0,Talca,,0
+5244491,Talca,I - K-614 / Parada VI,Talca,-35.48062686,-71.74744427,Talca,,0,Talca,,0
+5244492,Talca,I - K-614 / Parada VII,Talca,-35.48122969,-71.74751937,Talca,,0,Talca,,0
+5244493,Talca,I - K-614 / Parada VIII,Talca,-35.48617442,-71.74795926,Talca,,0,Talca,,0
+5244494,Talca,I - K-614 / Parada IX,Talca,-35.48634478,-71.74629092,Talca,,0,Talca,,0
+5244495,Talca,I - K-614 / Parada X,Talca,-35.48547117,-71.74619973,Talca,,0,Talca,,0
+5244496,Talca,I - K-614 / Parada XI,Talca,-35.48054823,-71.7481792,Talca,,0,Talca,,0
+5244497,Talca,I - K-614 / Parada XII,Talca,-35.48318228,-71.75392449,Talca,,0,Talca,,0
+5244498,Talca,I - K-614 / Parada XIII,Talca,-35.48473297,-71.75607562,Talca,,0,Talca,,0
+5244499,Talca,I - Quernel / Paradero 1,Talca,-35.48227807,-71.7525512,Talca,,0,Talca,,0
+5244500,Talca,I - K-614 / Parada 2,Talca,-35.47623659,-71.74684346,Talca,,0,Talca,,0
+5244501,Talca,I - Av. San Miguel / Parada1,Talca,-35.43807265,-71.61811352,Talca,,0,Talca,,0
+5244582,Talca,I - Veintiséis Sur / Cinco Pte A,Talca,-35.44640262,-71.6820842,Talca,,0,Talca,,0
+5244583,Talca,I - 1 Ote / Once Sur,Talca,-35.44010496,-71.6665864,Talca,,0,Talca,,0
+5244584,Talca,I - 1 Ote / Dos Ote,Talca,-35.43637246,-71.66627526,Talca,,0,Talca,,0
+5244585,Talca,I - Manuel Rodríguez / Pje Uno de Mayo,Talca,-35.40809772,-71.66191399,Talca,,0,Talca,,0
+5244587,Talca,I - 1 Ote / Piduco,Talca,-35.43580426,-71.66621089,Talca,,0,Talca,,0
+5244588,Talca,I - Cuatro Pte / Diecinueve Sur,Talca,-35.44168925,-71.67530626,Talca,,0,Talca,,0
+5244589,Talca,I - Veintiséis Sur / Cinco Pte,Talca,-35.44624092,-71.68255627,Talca,,0,Talca,,0
+5259313,Talca,Esmeralda,Talca,-35.44206647,-71.60979134,Talca,,0,Talca,,0
+5259314,Talca,Iansa,Talca,-35.44425588,-71.60668375,Talca,,0,Talca,,0
+5259315,Talca,Alto Las Cruces,Talca,-35.44716132,-71.60275958,Talca,,0,Talca,,0
+5259316,Talca,Colegio Ingles,Talca,-35.45006599,-71.59694316,Talca,,0,Talca,,0
+5259317,Talca,Escuela Iberia,Talca,-35.45313031,-71.58869043,Talca,,0,Talca,,0
+5259318,Talca,Huilquilemu,Talca,-35.45621533,-71.58133513,Talca,,0,Talca,,0
+5259319,Talca,Escuela Huilquilemu,Talca,-35.46047936,-71.57768102,Talca,,0,Talca,,0
+5259320,Talca,Villa Cultural Huilquilemu,Talca,-35.46134582,-71.57692832,Talca,,0,Talca,,0
+5259321,Talca,Santa Filomena,Talca,-35.46480154,-71.57286561,Talca,,0,Talca,,0
+5259322,Talca,Jardin Las Flores,Talca,-35.46719979,-71.56893569,Talca,,0,Talca,,0
+5259323,Talca,Mercedes,Talca,-35.46906415,-71.56591453,Talca,,0,Talca,,0
+5259324,Talca,Poblacion Purisima,Talca,-35.47353882,-71.55856728,Talca,,0,Talca,,0
+5259325,Talca,Cruce Chequen,Talca,-35.47878357,-71.55243572,Talca,,0,Talca,,0
+5259326,Talca,El Porvenir,Talca,-35.48161528,-71.54929762,Talca,,0,Talca,,0
+5259327,Talca,Marina Vistoso,Talca,-35.48324051,-71.54751477,Talca,,0,Talca,,0
+5259328,Talca,Cruce Duao,Talca,-35.48864527,-71.54158708,Talca,,0,Talca,,0
+5259329,Talca,Flor del Llano,Talca,-35.49568738,-71.53382778,Talca,,0,Talca,,0
+5259330,Talca,Aurora,Talca,-35.49877951,-71.52979374,Talca,,0,Talca,,0
+5259331,Talca,Chile Nuevo,Talca,-35.52029005,-71.51271343,Talca,,0,Talca,,0
+5259332,Talca,Estadio San Clemente,Talca,-35.52317166,-71.50924802,Talca,,0,Talca,,0
+5259333,Talca,Cruce Ramadilla,Talca,-35.52507521,-71.50684476,Talca,,0,Talca,,0
+5259334,Talca,Cementerio San Clemente,Talca,-35.52688267,-71.50449514,Talca,,0,Talca,,0
+5259335,Talca,Villa Conavicoop,Talca,-35.52841942,-71.50251031,Talca,,0,Talca,,0
+5259336,Talca,Canal Maule,Talca,-35.53178968,-71.49809003,Talca,,0,Talca,,0
+5259337,Talca,Copec,Talca,-35.53443514,-71.49380922,Talca,,0,Talca,,0
+5259338,Talca,Paseo La Concepción,Talca,-35.5355614,-71.49116993,Talca,,0,Talca,,0
+5259339,Talca,Humberto Silva,Talca,-35.53175475,-71.48930311,Talca,,0,Talca,,0
+5259340,Talca,Humberto Silva,Talca,-35.53273262,-71.48765087,Talca,,0,Talca,,0
+5259341,Talca,Humberto Silva,Talca,-35.53109119,-71.48625612,Talca,,0,Talca,,0
+5259342,Talca,Ignacio carrera Pinto,Talca,-35.53028792,-71.48554802,Talca,,0,Talca,,0
+5259343,Talca,Clomodoro Silva,Talca,-35.53173729,-71.48320913,Talca,,0,Talca,,0
+5259344,Talca,Alberto Torres,Talca,-35.53346602,-71.48305893,Talca,,0,Talca,,0
+5259345,Talca,Los Nogales,Talca,-35.53514233,-71.48271561,Talca,,0,Talca,,0
+5259346,Talca,Plaza de San Clemente,Talca,-35.53762181,-71.48507595,Talca,,0,Talca,,0
+5259347,Talca,Silvestre Urizar,Talca,-35.53861707,-71.48678184,Talca,,0,Talca,,0
+5259348,Talca,Centro,Talca,-35.53902739,-71.48679256,Talca,,0,Talca,,0
+5259349,Talca,Unimarc,Talca,-35.53972581,-71.48576796,Talca,,0,Talca,,0
+5259350,Talca,Los Canelos,Talca,-35.54141072,-71.48334324,Talca,,0,Talca,,0
+5259351,Talca,San Maximo,Talca,-35.54242776,-71.48171246,Talca,,0,Talca,,0
+5259358,Talca,San Maximo,Talca,-35.54237102,-71.48152471,Talca,,0,Talca,,0
+5259359,Talca,San Maximo,Talca,-35.54129723,-71.48317695,Talca,,0,Talca,,0
+5259360,Talca,Unimarc,Talca,-35.53954248,-71.48565531,Talca,,0,Talca,,0
+5259361,Talca,Alejandro Cruz,Talca,-35.53845992,-71.48728609,Talca,,0,Talca,,0
+5259362,Talca,PLaza de Armas,Talca,-35.53714163,-71.48629904,Talca,,0,Talca,,0
+5259363,Talca,Los Nogales,Talca,-35.53726386,-71.48452878,Talca,,0,Talca,,0
+5259364,Talca,Colegio Paula Montal,Talca,-35.53722021,-71.48277998,Talca,,0,Talca,,0
+5259365,Talca,Alberto Torres,Talca,-35.53543044,-71.48117065,Talca,,0,Talca,,0
+5259366,Talca,Los Nogales,Talca,-35.53441768,-71.48206115,Talca,,0,Talca,,0
+5259367,Talca,Clomodoro Silva,Talca,-35.53261912,-71.48387432,Talca,,0,Talca,,0
+5259368,Talca,Armando Ramirez,Talca,-35.53376287,-71.48511887,Talca,,0,Talca,,0
+5259369,Talca,Carlos Silva,Talca,-35.53626858,-71.48745775,Talca,,0,Talca,,0
+5259370,Talca,Humachuco,Talca,-35.53751704,-71.48850918,Talca,,0,Talca,,0
+5259371,Talca,Paseo La Concepcion,Talca,-35.53608524,-71.4906013,Talca,,0,Talca,,0
+5259372,Talca,Copec,Talca,-35.53423433,-71.49370193,Talca,,0,Talca,,0
+5259373,Talca,Canal Maule,Talca,-35.53156267,-71.49802566,Talca,,0,Talca,,0
+5259374,Talca,Villa Conavicoop,Talca,-35.52826225,-71.50232792,Talca,,0,Talca,,0
+5259375,Talca,Cementerio Parroquial,Talca,-35.52667312,-71.50439858,Talca,,0,Talca,,0
+5259376,Talca,Canal Maule,Talca,-35.52493551,-71.50671601,Talca,,0,Talca,,0
+5259377,Talca,Estadio San Clemente,Talca,-35.52301449,-71.50910854,Talca,,0,Talca,,0
+5259378,Talca,Chile Nuevo,Talca,-35.52008921,-71.5126276,Talca,,0,Talca,,0
+5259379,Talca,Aurora,Talca,-35.49857861,-71.52961135,Talca,,0,Talca,,0
+5259380,Talca,Flor del Llano,Talca,-35.49551268,-71.53365612,Talca,,0,Talca,,0
+5259382,Talca,Marina Vistoso,Talca,-35.48312207,-71.54750052,Talca,,0,Talca,,0
+5259383,Talca,Porvenir,Talca,-35.48150036,-71.54927167,Talca,,0,Talca,,0
+5259384,Talca,Cruce Chequen,Talca,-35.47842097,-71.55248883,Talca,,0,Talca,,0
+5259385,Talca,Poblacion Purisima,Talca,-35.4735123,-71.55820226,Talca,,0,Talca,,0
+5259386,Talca,Mercedes,Talca,-35.46910655,-71.56529902,Talca,,0,Talca,,0
+5259387,Talca,Parque Las Flores,Talca,-35.46678285,-71.56928322,Talca,,0,Talca,,0
+5259388,Talca,Huilquilemu 1,Talca,-35.46561568,-71.57119235,Talca,,0,Talca,,0
+5259389,Talca,Huilquilemu 2,Talca,-35.46264015,-71.57557156,Talca,,0,Talca,,0
+5259390,Talca,Villa Cultural Huilquilemu,Talca,-35.46139499,-71.5766594,Talca,,0,Talca,,0
+5259391,Talca,Huilquilemu 3,Talca,-35.45990222,-71.57789487,Talca,,0,Talca,,0
+5259392,Talca,Huilquilemu 4,Talca,-35.45628559,-71.58109345,Talca,,0,Talca,,0
+5259393,Talca,La Obra,Talca,-35.45347169,-71.5867925,Talca,,0,Talca,,0
+5259394,Talca,Escuela El Sauce,Talca,-35.45288082,-71.58882498,Talca,,0,Talca,,0
+5259395,Talca,Colegio Ingles,Talca,-35.45004332,-71.59669764,Talca,,0,Talca,,0
+5259396,Talca,Iansa,Talca,-35.44383549,-71.60693033,Talca,,0,Talca,,0
+5259397,Talca,Esmeralda,Talca,-35.44163181,-71.61018982,Talca,,0,Talca,,0
+5259398,Talca,Cruce Las Rastras,Talca,-35.43944295,-71.61296286,Talca,,0,Talca,,0
+5259399,Talca,John Kennedy,Talca,-35.53332633,-71.48247957,Talca,,0,Talca,,0
+5259400,Talca,Cruce Acceso By pass,Talca,-35.5318246,-71.48125648,Talca,,0,Talca,,0
+5261841,Talca,Estación Colín,Talca,-35.47664287,-71.74417734,Talca,,0,Talca,,0
+5261842,Talca,Estación Rauquén,Talca,-35.45438215,-71.78107381,Talca,,0,Talca,,0
+5261848,Talca,Estación Pocoa,Talca,-35.44739464,-71.82243079,Talca,,0,Talca,,0
+5261849,Talca,Estaciòn Corinto,Talca,-35.44640699,-71.87233329,Talca,,0,Talca,,0
+5261850,Talca,Estación El Morro,Talca,-35.46512661,-71.89268589,Talca,,0,Talca,,0
+5261851,Talca,Estación Curtiduría,Talca,-35.46198076,-71.93066597,Talca,,0,Talca,,0
+5261852,Talca,Estación Los Llocos,Talca,-35.45455257,-71.96285248,Talca,,0,Talca,,0
+5261853,Talca,Estción El Tricahue,Talca,-35.46149139,-71.97411776,Talca,,0,Talca,,0
+5261856,Talca,Estación El Peumo,Talca,-35.45308433,-71.98724985,Talca,,0,Talca,,0
+5261859,Talca,Estación González Bastías,Talca,-35.44520081,-72.02415705,Talca,,0,Talca,,0
+5261861,Talca,Estación Toconey,Talca,-35.42338165,-72.05672979,Talca,,0,Talca,,0
+5261863,Talca,Estación Pichamán,Talca,-35.4352011,-72.10211277,Talca,,0,Talca,,0
+5261865,Talca,Estación Romeros,Talca,-35.43074278,-72.12756157,Talca,,0,Talca,,0
+5261867,Talca,Estación Forel,Talca,-35.41252232,-72.1984148,Talca,,0,Talca,,0
+5261869,Talca,Estación Huinganes,Talca,-35.41530287,-72.23199606,Talca,,0,Talca,,0
+5261871,Talca,Estación Los Digueñes,Talca,-35.42075876,-72.27100611,Talca,,0,Talca,,0
+5261872,Talca,Estación Maquehua,Talca,-35.38859514,-72.28851557,Talca,,0,Talca,,0
+5261876,Talca,Estación Rancho Astillero,Talca,-35.36754806,-72.33780384,Talca,,0,Talca,,0
+5261877,Talca,Estación Constitución,Talca,-35.33615531,-72.40423679,Talca,,0,Talca,,0
