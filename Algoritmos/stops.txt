@@ -1,0 +1,64 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1508057,,Circunvalación / 16 1/2 Ote,,-35.41727018,-71.63721621,,,0,,,0
+1508061,,Talca,,Circunvalación / 15 1/2 Ote,,-35.41614226,-71.63836957,,,0,,,0
+2644929,,Talca,,Colin /O´Higgnis,,-35.44951412,-71.69028371,,,0,,,0
+2644930,,Talca,,Colin / Colin,,-35.45214893,-71.69008576,,,0,,,0
+2644931,,Talca,,Colin / Río Claro,,-35.45205966,-71.69039984,,,0,,,0
+2644932,,Talca,,Colin / O´Higgnis,,-35.44919298,-71.6905246,,,0,,,0
+2644933,,Talca,,Colin / Veintiocho Sur,,-35.44753496,-71.68959078,,,0,,,0
+2644934,,Talca,,Terminal Taxual s.a,,-35.45924115,-71.69419169,,,0,,,0
+2644935,,Talca,,Dos Sur / Tres Poniente,,-35.42797338,-71.66908454,,,0,,,0
+2644936,,Talca,,Dos Sur,,-35.42819941,-71.66758536,,,0,,,0
+2644937,,Talca,,Dos Sur / 1 Oriente,,-35.42835602,-71.66565564,,,0,,,0
+2644938,,Talca,,Dos Sur / Dos Ote,,-35.42830782,-71.66480602,,,0,,,0
+2644939,,Talca,,Dos Sur / Dos Ote,,-35.42845103,-71.6644973,,,0,,,0
+2644941,,Talca,,1 Oriente / 1 Sur,,-35.4267706,-71.66540567,,,0,,,0
+2644943,,Talca,,Dos Sur / Tres Oriente,,-35.4284927,-71.66235222,,,0,,,0
+2644944,,Talca,,Dos Sur / Cuatro Oriente,,-35.42865891,-71.66173998,,,0,,,0
+2645009,,Talca,,Dos Sur / 5 Oriente,,-35.4287231,-71.65957882,,,0,,,0
+2645028,,Talca,,Dos Sur / 6 Oriente,,-35.42893507,-71.65877887,,,0,,,0
+2645029,,Talca,,Dos Sur / Ocho Oriente,,-35.42931845,-71.65631824,,,0,,,0
+2645030,,Talca,,Dos Sur / Siete Oriente,,-35.42876427,-71.6567033,,,0,,,0
+2645107,,Talca,,Avenida Isidoro del Solar / Cuatro norte,,-35.42157754,-71.67025246,,,0,,,0
+2645108,,Talca,,Dos Sur / Nueve Oriente,,-35.42917214,-71.65405117,,,0,,,0
+2645109,,Talca,,Dos Sur / 10 Oriente,,-35.42943881,-71.65251745,,,0,,,0
+2645110,,Talca,,Once Oriente / Estación de Tren Talca,,-35.42953833,-71.65031309,,,0,,,0
+2645111,,Talca,,Estación Talca,,-35.42960194,-71.64938271,,,0,,,0
+2645112,,Talca,,Once Oriente / Uno Sur,,-35.42887168,-71.65029335,,,0,,,0
+2645113,,Talca,,Once Oriente / Dos Sur,,-35.42910294,-71.65044574,,,0,,,0
+2645114,,Talca,,Once Oriente / Uno Sur,,-35.42774073,-71.65031186,,,0,,,0
+2645117,,Talca,,Dos Norte / Doce Ote,,-35.42631181,-71.64820831,,,0,,,0
+2645118,,Talca,,Uno Sur / Catorce Ote,,-35.42880414,-71.64474704,,,0,,,0
+2645119,,Talca,,Catorce Oriente / Uno Sur,,-35.42852334,-71.64509863,,,0,,,0
+2645120,,Talca,,Avenida San Miguel / INACAP,,-35.43142795,-71.63853987,,,0,,,0
+2645176,,Talca,,Diez Oriente / Seis Norte,,-35.41998019,-71.65089598,,,0,,,0
+2711738,,Talca,,Cuatro Norte / 5 Ote,,-35.42277078,-71.65848197,,,0,,,0
+2711739,,Talca,,Cuatro Norte / 7 Oriente,,-35.42225626,-71.65624443,,,0,,,0
+2711740,,Talca,,Cuatro Norte / Tres Oriente,,-35.4218192,-71.66234346,,,0,,,0
+2711741,,Talca,,Cuatro Norte / Dos Poniente,,-35.42141801,-71.66794927,,,0,,,0
+2711742,,Talca,,Cuatro Norte / Diecinueve 1/2 Sur C,,-35.4212538,-71.67001297,,,0,,,0
+2711744,,Talca,,Cuatro Norte / Cárcel de Talca,,-35.42213333,-71.66791052,,,0,,,0
+2711745,,Talca,,Calle 1 Poniente / Cuatro Norte,,-35.42250224,-71.66630119,,,0,,,0
+2711746,,Talca,,Cuatro Norte / Uno Ote,,-35.42229704,-71.66524514,,,0,,,0
+2711747,,Talca,,Cuatro Norte / Cuatro Ote,,-35.42258557,-71.66119849,,,0,,,0
+2727697,,Talca,,Diez Oriente / Siete Norte,,-35.41916123,-71.65057832,,,0,,,0
+2727702,,Talca,,Diez Nte / Los Robles,,-35.41490082,-71.65055228,,,0,,,0
+2727703,,Talca,,Dieciocho Oriente / Cuatro 1/2 Sur,,-35.43336988,-71.64151516,,,0,,,0
+2727773,,Talca,,6 Oriente / Seis Sur,,-35.43390717,-71.65897268,,,0,,,0
+2727774,,Talca,,Seis Sur / Dos Ote,,-35.432936,-71.66488555,,,0,,,0
+2727942,,Talca,,San Miguel / Treinte Ote,,-35.43469173,-71.62904444,,,0,,,0
+2727944,,Talca,,San Miguel / Treinta y cuatro Ote,,-35.43668655,-71.62272147,,,0,,,0
+2727945,,Talca,,San Miguel / Treinta y cuatro Ote,,-35.4364481,-71.62258857,,,0,,,0
+2727955,,Talca,,San Miguel / Camino a San Miguel,,-35.4386117,-71.61573888,,,0,,,0
+2727960,,Talca,,Once Oriente / Tres sur,,-35.43028341,-71.65060378,,,0,,,0
+2727963,,Talca,,Once Oriente / Ocho Sur,,-35.43660869,-71.65128613,,,0,,,0
+2727991,,Talca,,Once Oriente / Ocho 1/2 Sur,,-35.43704676,-71.65122121,,,0,,,0
+2727993,,Talca,,Once Oriente / Nueve Sur,,-35.43765355,-71.65126354,,,0,,,0
+2728052,,Talca,,6 Oriente / Doce Sur,,-35.43924619,-71.66105427,,,0,,,0
+2728055,,Talca,,6 Oriente / Ocho 1/2 Sur,,-35.43654093,-71.65935601,,,0,,,0
+2728062,,Talca,,Carlos Schorr / Balmaceda,,-35.42937176,-71.67443616,,,0,,,0
+2746861,,Talca,,Avenida Lircay / Diecinueve Norte,,-35.40624887,-71.64464187,,,0,,,0
+2746862,,Talca,,Av. Lircay / Veintiuno y Medio Norte,,-35.40402042,-71.63985774,,,0,,,0
+2746863,,Talca,,Av. Lircay / Universidad de Talca,,-35.40413489,-71.63955477,,,0,,,0
+2746864,,Talca,,Ruta 118 / Estadio Universidad de Talca,,-35.40171501,-71.63503573,,,0,,,0
+2746865,,Talca,,Ruta 118 / Estadio Universidad de Talca,,-35.40185925,-71.63490989,,,0,,,0
