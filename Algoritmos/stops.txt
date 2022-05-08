@@ -1,4 +1,4 @@
-stop_id,TargetID,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+stop_id,TargetID,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
 1508057,Talca,Circunvalación / 16 1/2 Ote,,-35.41727018,-71.63721621,,,0,,,0
 1508061,Talca,Circunvalación / 15 1/2 Ote,,-35.41614226,-71.63836957,,,0,,,0
 2644929,Talca,Colin /O´Higgnis,,-35.44951412,-71.69028371,,,0,,,0
